@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 379efca8-b616-4794-982d-be5c78207a45
+      url: 'https://jonathanmbinder.quarto.pub/hello-'

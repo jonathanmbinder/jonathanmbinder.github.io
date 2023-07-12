@@ -1,0 +1,8 @@
+---
+title: "Projects"
+subtitle: "Here is an overview of the projects I have been working on."
+---
+
+## *Alopecurus myosuroides*-associated microorganisms
+
+Microorganisms can play an important role in plant health, but seed-associated microorganisms have often been overlooked. My research intends to determine how microorganisms affect *Alopecurus myosuroides* seed persistence in the soil seed bank.
