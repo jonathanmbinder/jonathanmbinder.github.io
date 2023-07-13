@@ -7,7 +7,7 @@ website:
   title: "Jonathan Binder"
 
   page-footer:
-    left: "&copy; Copyright 2022, Jonathan Binder"
+    left: "&copy; Copyright 2023, Jonathan Binder"
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
 
   navbar:
