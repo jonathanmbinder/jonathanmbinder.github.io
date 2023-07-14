@@ -18,9 +18,9 @@ website:
       - href: cv/index.qmd
         text: CV
     right: 
-      - href: ../ko/index.qmd
+      - href: ../ko/index.html
         text: 한국어
-      - href: ../en/index.qmd
+      - href: ../en/index.html
         text: English
 
 lang: ko
