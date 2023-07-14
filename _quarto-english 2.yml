@@ -1,0 +1,33 @@
+project:
+  output-dir: ./docs/en
+  title: "Jonathan Binder"
+
+website:
+  page-footer:
+    left: "&copy; Copyright 2023, Jonathan Binder"
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects/index.qmd
+        text: Projects
+      - href: cv/index.qmd
+        text: CV
+    right: 
+      - href: ../ko/index.qmd
+        text: 한국어
+      - href: ../en/index.qmd
+        text: English
+  
+lang: en
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    page-layout: full
+
+
+
