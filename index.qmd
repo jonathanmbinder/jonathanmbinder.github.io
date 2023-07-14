@@ -22,6 +22,8 @@ about:
 
 ::: {#hero-heading}
 
+::: {.content-visible when-profile="english"}
+
 <h1>About me</h1>
 
 I am a PhD student in the [Seed Science and Technology Research Group](seedbiology.de) 
@@ -43,3 +45,10 @@ BA in Environmental Studies | May 2014
 
 :::
 
+::: {.content-visible when-profile="korean"}
+
+사이트 준비중
+
+:::
+
+:::
