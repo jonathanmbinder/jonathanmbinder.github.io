@@ -18,10 +18,10 @@ website:
       - href: cv/index.qmd
         text: CV
     right: 
-      - href: ../ko
+      - href: ../ko/index.qmd
         text: 한국어
       - href: ../en
-        text: English
+        text: English/index.qmd
 
 lang: ko
 
