@@ -11,17 +11,17 @@ website:
 
   navbar:
     left:
-      - href: index.qmd
+      - href: home.qmd
         text: 홈
       - href: projects/index.qmd
         text: 프로젝트들
       - href: cv/index.qmd
         text: CV
     right: 
-      - href: ../ko/index.qmd
+      - href: ../ko
         text: 한국어
       - href: ../en
-        text: English/index.qmd
+        text: English
 
 lang: ko
 

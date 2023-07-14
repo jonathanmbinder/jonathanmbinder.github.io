@@ -8,16 +8,16 @@ website:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
   navbar:
     left:
-      - href: index.qmd
+      - href: home.qmd
         text: Home
       - href: projects/index.qmd
         text: Projects
       - href: cv/index.qmd
         text: CV
     right: 
-      - href: ../ko/index.qmd
+      - href: ../ko
         text: 한국어
-      - href: ../en/index.qmd
+      - href: ../en
         text: English
   
 lang: en
