@@ -1,5 +1,5 @@
 project:
-  output-dir: ./_site/en
+  output-dir: ./docs/en
   title: "Jonathan Binder"
 
 website:

@@ -1,5 +1,5 @@
 project:
-  output-dir: ./_site/ko
+  output-dir: ./docs/ko
 
 website:
   page-navigation: true
