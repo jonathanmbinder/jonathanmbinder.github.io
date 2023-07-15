@@ -24,8 +24,9 @@ lang: en
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: 
+      - cosmo
+      - theme.scss
     toc: true
     page-layout: full
 
