@@ -35,19 +35,26 @@ seeds in the soil seedbank. My studies are funded by the
  
 ## Education 
 
-[The Pennsylvania State University](https://agsci.psu.edu/) | State College, PA, USA
+[The Pennsylvania State University](https://agsci.psu.edu/) |
+MSc in Agronomy | 2019
 
-MSc in Agronomy | Mar 2019
-
-[Vassar College](https://www.vassar.edu) | Poughkeepsie, NY, USA
-
-BA in Environmental Studies | May 2014
+[Vassar College](https://www.vassar.edu) | BA in Environmental Studies | 2014
 
 :::
 
 ::: {.content-visible when-profile="korean"}
 
-사이트 준비중
+<h1>자기소개</h1>
+
+저는 [로열 홀러웨이 런던대학교](https://royalholloway.ac.uk)에 있는 [종자 과학 기술 연구 그룹](seedbiology.de)에 속한 박사생입니다. 미생물 커뮤니티 쥐꼬리뚝새풀 (*Alopecurus myosuroides*) 
+토양시드뱅크내 종자 지속성에 끼치는 영향을 공부합니다. 농약회사 신젠다 제 연구를 지원합니다.
+ 
+## 학력
+
+[펜실베니아 주립 대학교](https://agsci.psu.edu/) |
+작물학 석사 학위  | 2019
+
+[배서 칼리지](https://www.vassar.edu) | 환경학 학사 학위 | 2014
 
 :::
 

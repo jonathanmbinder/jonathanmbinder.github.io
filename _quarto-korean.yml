@@ -11,7 +11,7 @@ website:
 
   navbar:
     left:
-      - href: home.qmd
+      - href: index.qmd
         text: 홈
       - href: projects/index.qmd
         text: 프로젝트들

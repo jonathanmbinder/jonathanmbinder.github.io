@@ -8,7 +8,7 @@ website:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
   navbar:
     left:
-      - href: home.qmd
+      - href: index.qmd
         text: Home
       - href: projects/index.qmd
         text: Projects
