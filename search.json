@@ -95,21 +95,21 @@
     "href": "index.html",
     "title": "Jonathan M. Binder",
     "section": "",
-    "text": "Lab\n  \n  \n    \n     Uprofile\n  \n  \n    \n     E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n      ORCID\n  \n  \n      Web of Science\n  \n  \n      Scopus\n  \n  \n      Google Scholar\n  \n\n  \n  \nI’m a Quarto Academeic Website Template adapted by Dr. Gang He.\nI’m a template that you can fork to build your own website with easy adaptation and deployment.\n\nStar this repository to bookmark it for future reference.\n\nFork this repository and rename it to YourGitHubUserName.github.io.\n\nUpdate the _quarto.yml file to configure your site’s basic settings.\n\nAdd or edit content in the following files and folders:\n\n/posts/ – posts about publications, news, events\n\nteaching.qmd – teaching information\n\nprojects.yml – research or other projects\n\npeople.qmd and /people/ – team or collaborators\n\n/files/ - profiles, images, pdfs, and includes\n\nRender and preview your site locally.\n\nPublish your site using GitHub Pages (make sure configuring your GitHub repository to publish from the docs directory, not the root folder).\nRefine and polish your content and design as needed.\n\n✅ Enjoy your new website!\n\n\n\n\nResearcher, Univerisity\n\n\n\n\n\nPhD, Univerisity"
+    "text": "Lab\n  \n  \n    \n     Uprofile\n  \n  \n    \n     E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n      ORCID\n  \n  \n      Web of Science\n  \n  \n      Google Scholar\n  \n\n  \n  \n\n\nI am a PhD student in the Seed Science and Technology Research Group at Royal Holloway, University of London. I am studying the effects of soil microbiological communities on the longevity of blackgrass (Alopecurus myosuroides) seeds in the soil seedbank. My studies are funded by the London Interdisciplinary Biosciences Consortium Doctoral Training Partnership (LIDo) with Syngenta AG supporting as an industry partner.\n\n\n\nThe Pennsylvania State University | MSc in Agronomy | 2019\nVassar College | BA in Environmental Studies | 2014"
   },
   {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
     "title": "Jonathan M. Binder",
     "section": "",
-    "text": "Researcher, Univerisity"
+    "text": "I am a PhD student in the Seed Science and Technology Research Group at Royal Holloway, University of London. I am studying the effects of soil microbiological communities on the longevity of blackgrass (Alopecurus myosuroides) seeds in the soil seedbank. My studies are funded by the London Interdisciplinary Biosciences Consortium Doctoral Training Partnership (LIDo) with Syngenta AG supporting as an industry partner."
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Jonathan M. Binder",
     "section": "",
-    "text": "PhD, Univerisity"
+    "text": "The Pennsylvania State University | MSc in Agronomy | 2019\nVassar College | BA in Environmental Studies | 2014"
   },
   {
     "objectID": "index.html#recent-posts",
