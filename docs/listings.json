@@ -2,9 +2,10 @@
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/paper-manure1/index.html",
+      "/posts/paper-raphanus-pericarp/index.html",
       "/posts/event-title/index.html",
-      "/posts/news-title/index.html",
-      "/posts/paper-title/index.html"
+      "/posts/news-title/index.html"
     ]
   },
   {
@@ -14,9 +15,9 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/paper-raphanus-pericarp/index.html",
       "/posts/event-title/index.html",
-      "/posts/news-title/index.html",
-      "/posts/paper-title/index.html"
+      "/posts/news-title/index.html"
     ]
   },
   {

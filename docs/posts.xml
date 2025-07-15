@@ -15,15 +15,192 @@
 <link>https://drganghe.github.io/quarto-academic-website-template/posts.html</link>
 </image>
 <generator>quarto-1.6.39</generator>
-<lastBuildDate>Mon, 14 Oct 2024 15:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 08 May 2025 15:00:00 GMT</lastBuildDate>
 <item>
-  <title>Quarto Academic Website Examples and Tips</title>
-  <link>https://drganghe.github.io/quarto-academic-website-template/</link>
-  <description>Examples and tips for Quarto Academic Website</description>
-  <category>news</category>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/</guid>
-  <pubDate>Mon, 14 Oct 2024 15:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/placeholder1.jpg" medium="image" type="image/jpeg"/>
+  <title>Comparative pericarp biomechanics and germination physiology of Raphanus raphanistrum and Raphanus pugioniformis indehiscent fruits</title>
+  <dc:creator>Tina Steinbrecher</dc:creator>
+  <dc:creator>Samik Bhattacharya</dc:creator>
+  <dc:creator>Jonathan Binder</dc:creator>
+  <dc:creator>Katharina Kleemeier</dc:creator>
+  <dc:creator>Felix Przesdzink</dc:creator>
+  <dc:creator>Franziska Groene</dc:creator>
+  <dc:creator>Kyra Jacoblinnert</dc:creator>
+  <dc:creator>Klaus Mummenhoff</dc:creator>
+  <dc:creator>Gerhard Leubner-Metzger</dc:creator>
+  <link>https://drganghe.github.io/quarto-academic-website-template/posts/paper-manure1/</link>
+  <description><![CDATA[ 
+
+
+
+
+<!--Include academic icons or bottons-->
+<!-- 
+Load Academicons v1: https://jpswalsh.github.io/academicons/
+-->
+<p><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></p>
+<p><link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"></p>
+<!---
+The following code are needed to show dimension citation and altmetrics.
+https://api.altmetric.com/embeds.html
+https://badge.dimensions.ai/
+--->
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<section id="background" class="level3">
+<h3 class="anchored" data-anchor-id="background">Background</h3>
+<p>The biomechanical, morphological and ecophysiological properties of plant seed/fruit structures are adaptations that support survival in unpredictable environments. High phenotypic variability of noxious and invasive weed species such as Raphanus raphanistrum (wild radish) allow diversification into new environmental niches. Dry indehiscent fruits (thick and lignified pericarp [fruit coat] enclosing seeds) have evolved many times independently.</p>
+</section>
+<section id="methods" class="level3">
+<h3 class="anchored" data-anchor-id="methods">Methods</h3>
+<p>A multiscale biomechanics and imaging (microscopy, X-ray, finite element stress simulation, puncture force analysis) approach was used to comparatively investigate the indehiscent fruits of R. raphanistrum (global weed), R. pugioniformis (endemic weed) and R. sativus (cultivated radish).</p>
+</section>
+<section id="results" class="level3">
+<h3 class="anchored" data-anchor-id="results">Results</h3>
+<p>The hard pericarp of Raphanus species (Brassicaceae) imposes mechanical dormancy by preventing full phase-II water uptake of the enclosed seeds. The apparently unilocular fruits of Raphanus species develop from two fused valves, pericarp rupture to permit germination is confined to the midvalve regions, and each midvalve region contains a predetermined breaking zone that is biomechanically defined by the internal shape of the seed chambers. Direct biomechanical analysis revealed great variability in within-fruit and between-fruits pericarp resistances.</p>
+</section>
+<section id="conclusions" class="level3">
+<h3 class="anchored" data-anchor-id="conclusions">Conclusions</h3>
+<p>Variability in pericarp-imposed dormancy provides a bet-hedging strategy to affect soil seed bank persistence and prolong the germinability period.</p>
+</section>
+<section id="keywords" class="level3">
+<h3 class="anchored" data-anchor-id="keywords">Keywords</h3>
+<p>Functional morphology; finite element stress simulation; fruit coat biomechanics; pericarp-imposed mechanical dormancy; predetermined breaking zone; soil seed bank persistence.</p>
+</section>
+</section>
+<section id="links" class="level2">
+<h2 class="anchored" data-anchor-id="links">Links</h2>
+<p>Published <a href="https://pubmed.ncbi.nlm.nih.gov/39868575/">paper</a></p>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/aob/mcaf015"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1093/aob/mcaf015" data-hide-zero-citations="true" data-style="small_circle"></span><script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{steinbrecher2025,
+  author = {Steinbrecher, Tina and Bhattacharya, Samik and Binder,
+    Jonathan and Kleemeier, Katharina and Przesdzink, Felix and Groene,
+    Franziska and Jacoblinnert, Kyra and Mummenhoff, Klaus and
+    Leubner-Metzger, Gerhard},
+  title = {Comparative Pericarp Biomechanics and Germination Physiology
+    of \emph{{Raphanus} Raphanistrum} and \emph{{Raphanus}
+    Pugioniformis} Indehiscent Fruits},
+  journal = {Annals of Botany},
+  volume = {135},
+  number = {5},
+  pages = {977-89},
+  date = {2025-05-09},
+  url = {https://pubmed.ncbi.nlm.nih.gov/39868575/},
+  doi = {10.1093/aob/mcaf015},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-steinbrecher2025" class="csl-entry quarto-appendix-citeas">
+Steinbrecher, T., S. Bhattacharya, J. Binder, K. Kleemeier, F.
+Przesdzink, et al. 2025. Comparative pericarp biomechanics and
+germination physiology of <em>Raphanus raphanistrum</em> and
+<em>Raphanus pugioniformis</em> indehiscent fruits. Annals of Botany
+135(5): 977–89. doi: <a href="https://doi.org/10.1093/aob/mcaf015">10.1093/aob/mcaf015</a>.
+</div></div></section></div> ]]></description>
+  <category>paper</category>
+  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/paper-manure1/</guid>
+  <pubDate>Thu, 08 May 2025 15:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/quarto-academic-website-template/posts/paper-manure1" medium="image"/>
+</item>
+<item>
+  <title>Comparative pericarp biomechanics and germination physiology of Raphanus raphanistrum and Raphanus pugioniformis indehiscent fruits</title>
+  <dc:creator>Tina Steinbrecher</dc:creator>
+  <dc:creator>Samik Bhattacharya</dc:creator>
+  <dc:creator>Jonathan Binder</dc:creator>
+  <dc:creator>Katharina Kleemeier</dc:creator>
+  <dc:creator>Felix Przesdzink</dc:creator>
+  <dc:creator>Franziska Groene</dc:creator>
+  <dc:creator>Kyra Jacoblinnert</dc:creator>
+  <dc:creator>Klaus Mummenhoff</dc:creator>
+  <dc:creator>Gerhard Leubner-Metzger</dc:creator>
+  <link>https://drganghe.github.io/quarto-academic-website-template/posts/paper-raphanus-pericarp/</link>
+  <description><![CDATA[ 
+
+
+
+
+<!--Include academic icons or bottons-->
+<!-- 
+Load Academicons v1: https://jpswalsh.github.io/academicons/
+-->
+<p><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></p>
+<p><link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"></p>
+<!---
+The following code are needed to show dimension citation and altmetrics.
+https://api.altmetric.com/embeds.html
+https://badge.dimensions.ai/
+--->
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<section id="background" class="level3">
+<h3 class="anchored" data-anchor-id="background">Background</h3>
+<p>The biomechanical, morphological and ecophysiological properties of plant seed/fruit structures are adaptations that support survival in unpredictable environments. High phenotypic variability of noxious and invasive weed species such as Raphanus raphanistrum (wild radish) allow diversification into new environmental niches. Dry indehiscent fruits (thick and lignified pericarp [fruit coat] enclosing seeds) have evolved many times independently.</p>
+</section>
+<section id="methods" class="level3">
+<h3 class="anchored" data-anchor-id="methods">Methods</h3>
+<p>A multiscale biomechanics and imaging (microscopy, X-ray, finite element stress simulation, puncture force analysis) approach was used to comparatively investigate the indehiscent fruits of R. raphanistrum (global weed), R. pugioniformis (endemic weed) and R. sativus (cultivated radish).</p>
+</section>
+<section id="results" class="level3">
+<h3 class="anchored" data-anchor-id="results">Results</h3>
+<p>The hard pericarp of Raphanus species (Brassicaceae) imposes mechanical dormancy by preventing full phase-II water uptake of the enclosed seeds. The apparently unilocular fruits of Raphanus species develop from two fused valves, pericarp rupture to permit germination is confined to the midvalve regions, and each midvalve region contains a predetermined breaking zone that is biomechanically defined by the internal shape of the seed chambers. Direct biomechanical analysis revealed great variability in within-fruit and between-fruits pericarp resistances.</p>
+</section>
+<section id="conclusions" class="level3">
+<h3 class="anchored" data-anchor-id="conclusions">Conclusions</h3>
+<p>Variability in pericarp-imposed dormancy provides a bet-hedging strategy to affect soil seed bank persistence and prolong the germinability period.</p>
+</section>
+<section id="keywords" class="level3">
+<h3 class="anchored" data-anchor-id="keywords">Keywords</h3>
+<p>Functional morphology; finite element stress simulation; fruit coat biomechanics; pericarp-imposed mechanical dormancy; predetermined breaking zone; soil seed bank persistence.</p>
+</section>
+</section>
+<section id="links" class="level2">
+<h2 class="anchored" data-anchor-id="links">Links</h2>
+<p>Published <a href="https://pubmed.ncbi.nlm.nih.gov/39868575/">paper</a></p>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/aob/mcaf015"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1093/aob/mcaf015" data-hide-zero-citations="true" data-style="small_circle"></span><script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{steinbrecher2025,
+  author = {Steinbrecher, Tina and Bhattacharya, Samik and Binder,
+    Jonathan and Kleemeier, Katharina and Przesdzink, Felix and Groene,
+    Franziska and Jacoblinnert, Kyra and Mummenhoff, Klaus and
+    Leubner-Metzger, Gerhard},
+  title = {Comparative Pericarp Biomechanics and Germination Physiology
+    of \emph{{Raphanus} Raphanistrum} and \emph{{Raphanus}
+    Pugioniformis} Indehiscent Fruits},
+  journal = {Annals of Botany},
+  volume = {135},
+  number = {5},
+  pages = {977-89},
+  date = {2025-05-09},
+  url = {https://pubmed.ncbi.nlm.nih.gov/39868575/},
+  doi = {10.1093/aob/mcaf015},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-steinbrecher2025" class="csl-entry quarto-appendix-citeas">
+Steinbrecher, T., S. Bhattacharya, J. Binder, K. Kleemeier, F.
+Przesdzink, et al. 2025. Comparative pericarp biomechanics and
+germination physiology of <em>Raphanus raphanistrum</em> and
+<em>Raphanus pugioniformis</em> indehiscent fruits. Annals of Botany
+135(5): 977–89. doi: <a href="https://doi.org/10.1093/aob/mcaf015">10.1093/aob/mcaf015</a>.
+</div></div></section></div> ]]></description>
+  <category>paper</category>
+  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/paper-raphanus-pericarp/</guid>
+  <pubDate>Thu, 08 May 2025 15:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/quarto-academic-website-template/posts/paper-raphanus-pericarp/mcaf015_fig7.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Event item</title>
@@ -86,68 +263,6 @@ https://quarto.org/docs/authoring/includes.html
   <guid>https://drganghe.github.io/quarto-academic-website-template/posts/news-title/</guid>
   <pubDate>Sun, 23 Jun 2024 15:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/placeholder3.JPG" medium="image"/>
-</item>
-<item>
-  <title>Can quantum-mechanical description of physical reality be considered complete?</title>
-  <dc:creator>Albert Einstein</dc:creator>
-  <dc:creator>Boris Podolsky</dc:creator>
-  <dc:creator>Nathan Rosen</dc:creator>
-  <link>https://drganghe.github.io/quarto-academic-website-template/posts/paper-title/</link>
-  <description><![CDATA[ 
-
-
-
-
-<!--Include academic icons or bottons-->
-<!-- 
-Load Academicons v1: https://jpswalsh.github.io/academicons/
--->
-<p><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></p>
-<p><link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"></p>
-<!---
-The following code are needed to show dimension citation and altmetrics.
-https://api.altmetric.com/embeds.html
-https://badge.dimensions.ai/
---->
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
-<section id="abstract" class="level2">
-<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<p>In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.</p>
-</section>
-<section id="links" class="level2">
-<h2 class="anchored" data-anchor-id="links">Links</h2>
-<p>Published <a href="https://journals.aps.org/pr/pdf/10.1103/PhysRev.47.777">paper</a></p>
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1103/PhysRev.47.777"></div>
-
-<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRev.47.777" data-hide-zero-citations="true" data-style="small_circle"></span><script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{einstein1935,
-  author = {Einstein, Albert and Podolsky, Boris and Rosen, Nathan},
-  title = {Can Quantum-Mechanical Description of Physical Reality Be
-    Considered Complete?},
-  journal = {Physical Review},
-  volume = {47},
-  number = {7938},
-  pages = {777-80},
-  date = {1935-05-15},
-  url = {https://journals.aps.org/pr/pdf/10.1103/PhysRev.47.777},
-  doi = {10.1103/PhysRev.47.777},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-einstein1935" class="csl-entry quarto-appendix-citeas">
-Einstein, Albert, Boris Podolsky, and Nathan Rosen. 1935. <span>“Can
-Quantum-Mechanical Description of Physical Reality Be Considered
-Complete?”</span> <em>Physical Review</em> 47 (7938): 777–80. <a href="https://doi.org/10.1103/PhysRev.47.777">https://doi.org/10.1103/PhysRev.47.777</a>.
-</div></div></section></div> ]]></description>
-  <category>paper</category>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/paper-title/</guid>
-  <pubDate>Tue, 14 May 1935 15:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/quarto-academic-website-template/posts/paper-title/featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
