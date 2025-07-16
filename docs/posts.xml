@@ -110,6 +110,54 @@ germination physiology of <em>Raphanus raphanistrum</em> and
   <media:content url="https://drganghe.github.io/quarto-academic-website-template/posts/paper-raphanus-pericarp/mcaf015_fig7.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
+  <title>Networking trip to Guatemala</title>
+  <dc:creator>Jonathan </dc:creator>
+  <link>https://drganghe.github.io/quarto-academic-website-template/posts/news-Guatemala-trip/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>I was awarded official development assistance (<a href="https://www.ukri.org/what-we-do/international-funding/applying-for-official-development-assistance-oda-funding/">ODA</a>) funding to conduct a networking trip and visited the Institute of Agricultural Science and Technology (<a href="https://www.icta.gob.gt/">ICTA</a>) seed science team, <a href="http://fausac.gt/">San Carlos University’s agronomy department</a> for a talk by the <a href="https://www.fao.org/guatemala/fao-en-guatemala/es/">FAO country director Rafael Zavala</a>, and University of the Valley of Guatemala to meet with Dr.&nbsp;Rolando Cifuentes, director of the <a href="https://www.uvg.edu.gt/investigacion/ceaa/">Center for Agricultural and Food Studies</a> and researcher Isabel Alonzo.</p>
+<p>You can see my LinkedIn posts <a href="https://www.linkedin.com/posts/jonathan-binder_the-first-stop-of-my-guatemala-networking-activity-7305575684893003778-84Tq?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAABNghmQBCfkIj1Hs63ssN_qV1wy9CxRgZbA">1</a>, <a href="https://www.linkedin.com/posts/jonathan-binder_the-second-stop-on-my-guatemala-networking-activity-7306294417449992192-sIqU?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAABNghmQBCfkIj1Hs63ssN_qV1wy9CxRgZbA">2</a>, and <a href="https://www.linkedin.com/posts/jonathan-binder_the-third-and-final-stop-of-my-guatemala-activity-7308042396179546114-S9E2?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAABNghmQBCfkIj1Hs63ssN_qV1wy9CxRgZbA">3</a>.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../../files/images/placeholder3.JPG" class="lightbox" data-gallery="my-gallery" title="A Lovely Image"><img src="https://drganghe.github.io/quarto-academic-website-template/files/images/placeholder3.JPG" class="img-fluid figure-img" alt="A Lovely Image"></a></p>
+<figcaption>A Lovely Image</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../../files/images/placeholder3.JPG" class="lightbox" data-gallery="my-gallery" title="Another Lovely Image"><img src="https://drganghe.github.io/quarto-academic-website-template/files/images/placeholder3.JPG" class="img-fluid figure-img" alt="Another Lovely Image"></a></p>
+<figcaption>Another Lovely Image</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../../files/images/placeholder3.JPG" class="lightbox" data-gallery="my-gallery" title="The Last Lovely Image"><img src="https://drganghe.github.io/quarto-academic-website-template/files/images/placeholder3.JPG" class="img-fluid figure-img" alt="The Last Lovely Image"></a></p>
+<figcaption>The Last Lovely Image</figcaption>
+</figure>
+</div>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/news-Guatemala-trip/</guid>
+  <pubDate>Wed, 23 Apr 2025 15:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/placeholder3.JPG" medium="image"/>
+</item>
+<item>
   <title>EWRS Working Group: Biological Control Workshop</title>
   <dc:creator>Jonathan Binder</dc:creator>
   <link>https://drganghe.github.io/quarto-academic-website-template/posts/event-EWRS-biological-control/</link>
@@ -144,38 +192,6 @@ https://quarto.org/docs/authoring/includes.html
   <guid>https://drganghe.github.io/quarto-academic-website-template/posts/event-EWRS-biological-control/</guid>
   <pubDate>Tue, 29 Oct 2024 15:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/quarto-academic-website-template/posts/event-EWRS-biological-control/pic1.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>News item</title>
-  <dc:creator>News </dc:creator>
-  <link>https://drganghe.github.io/quarto-academic-website-template/posts/news-title/</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="summary" class="level2">
-<h2 class="anchored" data-anchor-id="summary">Summary</h2>
-<p>About the news</p>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
-</div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
-
-
-</section>
-
- ]]></description>
-  <category>news</category>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/news-title/</guid>
-  <pubDate>Sun, 23 Jun 2024 15:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/placeholder3.JPG" medium="image"/>
 </item>
 </channel>
 </rss>
