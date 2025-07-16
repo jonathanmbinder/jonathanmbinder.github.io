@@ -1,0 +1,70 @@
+---
+title: "Comparative pericarp biomechanics and germination physiology of <i>Raphanus raphanistrum</i> and <i>Raphanus pugioniformis</i> indehiscent fruits"
+description: "A multiscale biomechanics and imaging (microscopy, X-ray, finite element stress simulation, puncture force analysis) approach was used to comparatively investigate the indehiscent fruits of <i>R. raphanistrum</i> (global weed), *R. pugioniformis* (endemic weed) and *R. sativus* (cultivated radish)."
+subtitle: "*Annals of Botany*"
+author: 
+  - name: Tina Steinbrecher
+  - name: Samik Bhattacharya
+  - name: Jonathan Binder
+  - name: Katharina Kleemeier
+  - name: Felix Przesdzink
+  - name: Franziska Groene
+  - name: Kyra Jacoblinnert
+  - name: Klaus Mummenhoff
+  - name: Gerhard Leubner-Metzger
+date: "2025-05-09"
+categories: [paper]
+image: "mcaf015_fig7.jpg"
+citation:
+  type: article-journal
+  container-title: "Annals of Botany"
+  doi: "10.1093/aob/mcaf015"
+  available-date: "2025-05-09"
+  issued: "2025-05-09"
+  volume: 135
+  issue: 5
+  page: 977-89
+  url: https://pubmed.ncbi.nlm.nih.gov/39868575/
+google-scholar: true
+csl: agronomy-journal.csl
+
+---
+
+<!--Include academic icons or bottons-->
+
+{{< include /files/includes/_academic.qmd >}}
+
+
+## Abstract
+
+### Background
+
+The biomechanical, morphological and ecophysiological properties of plant seed/fruit structures are adaptations that support survival in unpredictable environments. High phenotypic variability of noxious and invasive weed species such as Raphanus raphanistrum (wild radish) allow diversification into new environmental niches. Dry indehiscent fruits (thick and lignified pericarp [fruit coat] enclosing seeds) have evolved many times independently.
+
+### Methods
+
+A multiscale biomechanics and imaging (microscopy, X-ray, finite element stress simulation, puncture force analysis) approach was used to comparatively investigate the indehiscent fruits of R. raphanistrum (global weed), R. pugioniformis (endemic weed) and R. sativus (cultivated radish).
+
+### Results
+
+The hard pericarp of Raphanus species (Brassicaceae) imposes mechanical dormancy by preventing full phase-II water uptake of the enclosed seeds. The apparently unilocular fruits of Raphanus species develop from two fused valves, pericarp rupture to permit germination is confined to the midvalve regions, and each midvalve region contains a predetermined breaking zone that is biomechanically defined by the internal shape of the seed chambers. Direct biomechanical analysis revealed great variability in within-fruit and between-fruits pericarp resistances.
+
+### Conclusions
+
+Variability in pericarp-imposed dormancy provides a bet-hedging strategy to affect soil seed bank persistence and prolong the germinability period.
+
+### Keywords
+
+Functional morphology; finite element stress simulation; fruit coat biomechanics; pericarp-imposed mechanical dormancy; predetermined breaking zone; soil seed bank persistence.
+
+
+## Links
+
+Published [paper](https://pubmed.ncbi.nlm.nih.gov/39868575/)
+
+
+```{=html}
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/aob/mcaf015"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1093/aob/mcaf015" data-hide-zero-citations="true" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+```
