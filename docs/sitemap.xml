@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://drganghe.github.io/quarto-academic-website-template/posts.html</loc>
-    <lastmod>2025-07-16T01:37:50.857Z</lastmod>
+    <lastmod>2025-07-16T05:15:55.698Z</lastmod>
   </url>
   <url>
     <loc>https://drganghe.github.io/quarto-academic-website-template/publications.html</loc>
@@ -10,7 +10,7 @@
   </url>
   <url>
     <loc>https://drganghe.github.io/quarto-academic-website-template/projects.html</loc>
-    <lastmod>2025-07-14T08:50:08.005Z</lastmod>
+    <lastmod>2025-07-16T05:13:23.197Z</lastmod>
   </url>
   <url>
     <loc>https://drganghe.github.io/quarto-academic-website-template/posts/news-title/index.html</loc>
@@ -26,7 +26,7 @@
   </url>
   <url>
     <loc>https://drganghe.github.io/quarto-academic-website-template/contact.html</loc>
-    <lastmod>2025-07-14T08:50:07.955Z</lastmod>
+    <lastmod>2025-07-16T02:39:42.513Z</lastmod>
   </url>
   <url>
     <loc>https://drganghe.github.io/quarto-academic-website-template/posts/event-title/index.html</loc>
@@ -54,6 +54,10 @@
   </url>
   <url>
     <loc>https://drganghe.github.io/quarto-academic-website-template/posts/news-Guatemala-trip/index.html</loc>
-    <lastmod>2025-07-16T02:07:22.173Z</lastmod>
+    <lastmod>2025-07-16T02:18:01.613Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drganghe.github.io/quarto-academic-website-template/grants.html</loc>
+    <lastmod>2025-07-16T02:42:04.415Z</lastmod>
   </url>
 </urlset>
