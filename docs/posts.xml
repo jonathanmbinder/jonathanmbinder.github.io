@@ -6,13 +6,13 @@
       version="2.0">
 <channel>
 <title>Jonathan M. Binder</title>
-<link>https://drganghe.github.io/quarto-academic-website-template/posts.html</link>
-<atom:link href="https://drganghe.github.io/quarto-academic-website-template/posts.xml" rel="self" type="application/rss+xml"/>
+<link>https://jonathanmbinder.github.io/posts.html</link>
+<atom:link href="https://jonathanmbinder.github.io/posts.xml" rel="self" type="application/rss+xml"/>
 <description>Quarto Academic Website Template adapted by Dr. Gang He</description>
 <image>
 <url>https://quarto.org/quarto.png</url>
 <title>Jonathan M. Binder</title>
-<link>https://drganghe.github.io/quarto-academic-website-template/posts.html</link>
+<link>https://jonathanmbinder.github.io/posts.html</link>
 </image>
 <generator>quarto-1.6.39</generator>
 <lastBuildDate>Thu, 08 May 2025 15:00:00 GMT</lastBuildDate>
@@ -27,7 +27,7 @@
   <dc:creator>Kyra Jacoblinnert</dc:creator>
   <dc:creator>Klaus Mummenhoff</dc:creator>
   <dc:creator>Gerhard Leubner-Metzger</dc:creator>
-  <link>https://drganghe.github.io/quarto-academic-website-template/posts/paper-raphanus-pericarp/</link>
+  <link>https://jonathanmbinder.github.io/posts/paper-raphanus-pericarp/</link>
   <description><![CDATA[ 
 
 
@@ -105,14 +105,14 @@ germination physiology of <em>Raphanus raphanistrum</em> and
 135(5): 977–89. doi: <a href="https://doi.org/10.1093/aob/mcaf015">10.1093/aob/mcaf015</a>.
 </div></div></section></div> ]]></description>
   <category>paper</category>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/paper-raphanus-pericarp/</guid>
+  <guid>https://jonathanmbinder.github.io/posts/paper-raphanus-pericarp/</guid>
   <pubDate>Thu, 08 May 2025 15:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/quarto-academic-website-template/posts/paper-raphanus-pericarp/mcaf015_fig7.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://jonathanmbinder.github.io/posts/paper-raphanus-pericarp/mcaf015_fig7.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Networking trip to Guatemala</title>
-  <dc:creator>Jonathan </dc:creator>
-  <link>https://drganghe.github.io/quarto-academic-website-template/posts/news-Guatemala-trip/</link>
+  <dc:creator>Jonathan Binder</dc:creator>
+  <link>https://jonathanmbinder.github.io/posts/news-Guatemala-trip/</link>
   <description><![CDATA[ 
 
 
@@ -122,25 +122,25 @@ germination physiology of <em>Raphanus raphanistrum</em> and
 <p>You can see my LinkedIn posts <a href="https://www.linkedin.com/posts/jonathan-binder_the-first-stop-of-my-guatemala-networking-activity-7305575684893003778-84Tq?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAABNghmQBCfkIj1Hs63ssN_qV1wy9CxRgZbA">1</a>, <a href="https://www.linkedin.com/posts/jonathan-binder_the-second-stop-on-my-guatemala-networking-activity-7306294417449992192-sIqU?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAABNghmQBCfkIj1Hs63ssN_qV1wy9CxRgZbA">2</a>, and <a href="https://www.linkedin.com/posts/jonathan-binder_the-third-and-final-stop-of-my-guatemala-activity-7308042396179546114-S9E2?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAABNghmQBCfkIj1Hs63ssN_qV1wy9CxRgZbA">3</a>.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="pic1.jpg" class="lightbox" data-gallery="my-gallery" title="Seminar at San Carlos University"><img src="https://drganghe.github.io/quarto-academic-website-template/posts/news-Guatemala-trip/pic1.jpg" class="img-fluid figure-img" alt="Seminar at San Carlos University"></a></p>
+<p><a href="pic1.jpg" class="lightbox" data-gallery="my-gallery" title="Seminar at San Carlos University"><img src="https://jonathanmbinder.github.io/posts/news-Guatemala-trip/pic1.jpg" class="img-fluid figure-img" alt="Seminar at San Carlos University"></a></p>
 <figcaption>Seminar at San Carlos University</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="pic3.jpg" class="lightbox" data-gallery="my-gallery" title="ICTA new maize variety"><img src="https://drganghe.github.io/quarto-academic-website-template/posts/news-Guatemala-trip/pic3.jpg" class="img-fluid figure-img" alt="ICTA new maize variety"></a></p>
+<p><a href="pic3.jpg" class="lightbox" data-gallery="my-gallery" title="ICTA new maize variety"><img src="https://jonathanmbinder.github.io/posts/news-Guatemala-trip/pic3.jpg" class="img-fluid figure-img" alt="ICTA new maize variety"></a></p>
 <figcaption>ICTA new maize variety</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="pic2.jpg" class="lightbox" data-gallery="my-gallery" title="Greenhouse study at UVG"><img src="https://drganghe.github.io/quarto-academic-website-template/posts/news-Guatemala-trip/pic2.jpg" class="img-fluid figure-img" alt="Greenhouse study at UVG"></a></p>
+<p><a href="pic2.jpg" class="lightbox" data-gallery="my-gallery" title="Greenhouse study at UVG"><img src="https://jonathanmbinder.github.io/posts/news-Guatemala-trip/pic2.jpg" class="img-fluid figure-img" alt="Greenhouse study at UVG"></a></p>
 <figcaption>Greenhouse study at UVG</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="pic4.jpg" class="lightbox" data-gallery="my-gallery" title="Meeting with Professor Cifuentes"><img src="https://drganghe.github.io/quarto-academic-website-template/posts/news-Guatemala-trip/pic4.jpg" class="img-fluid figure-img" alt="Meeting with Professor Cifuentes"></a></p>
+<p><a href="pic4.jpg" class="lightbox" data-gallery="my-gallery" title="Meeting with Professor Cifuentes"><img src="https://jonathanmbinder.github.io/posts/news-Guatemala-trip/pic4.jpg" class="img-fluid figure-img" alt="Meeting with Professor Cifuentes"></a></p>
 <figcaption>Meeting with Professor Cifuentes</figcaption>
 </figure>
 </div>
@@ -159,14 +159,14 @@ https://quarto.org/docs/authoring/includes.html
 
  ]]></description>
   <category>news</category>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/news-Guatemala-trip/</guid>
+  <guid>https://jonathanmbinder.github.io/posts/news-Guatemala-trip/</guid>
   <pubDate>Wed, 23 Apr 2025 15:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/quarto-academic-website-template/posts/news-Guatemala-trip/pic4.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://jonathanmbinder.github.io/posts/news-Guatemala-trip/pic4.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>EWRS Working Group: Biological Control Workshop</title>
   <dc:creator>Jonathan Binder</dc:creator>
-  <link>https://drganghe.github.io/quarto-academic-website-template/posts/event-EWRS-biological-control/</link>
+  <link>https://jonathanmbinder.github.io/posts/event-EWRS-biological-control/</link>
   <description><![CDATA[ 
 
 
@@ -178,7 +178,7 @@ https://quarto.org/docs/authoring/includes.html
 </blockquote>
 <p>EWRS Workshop “Managing the Plant Invasions by Biological Control”; 30 October-02 November 2024 in Antalya, Turkey:</p>
 <p><a href="https://blog.invasive-species.org/2024/12/23/european-weed-research-society-working-groups-turn-focus-on-biological-control-of-invasive-alien-plant-species/">CABI blog write-up</a></p>
-<p><a href="https://blog.invasive-species.org/2024/12/23/european-weed-research-society-working-groups-turn-focus-on-biological-control-of-invasive-alien-plant-species/"><img src="https://drganghe.github.io/quarto-academic-website-template/posts/event-EWRS-biological-control/pic1.jpg" class="img-fluid" style="width:90.0%"></a></p>
+<p><a href="https://blog.invasive-species.org/2024/12/23/european-weed-research-society-working-groups-turn-focus-on-biological-control-of-invasive-alien-plant-species/"><img src="https://jonathanmbinder.github.io/posts/event-EWRS-biological-control/pic1.jpg" class="img-fluid" style="width:90.0%"></a></p>
 <!--Include social share buttons-->
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 
@@ -195,18 +195,18 @@ https://quarto.org/docs/authoring/includes.html
  ]]></description>
   <category>event</category>
   <category>presentation</category>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/event-EWRS-biological-control/</guid>
+  <guid>https://jonathanmbinder.github.io/posts/event-EWRS-biological-control/</guid>
   <pubDate>Tue, 29 Oct 2024 15:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/quarto-academic-website-template/posts/event-EWRS-biological-control/pic1.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://jonathanmbinder.github.io/posts/event-EWRS-biological-control/pic1.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Quarto Academic Website Examples and Tips</title>
-  <link>https://drganghe.github.io/quarto-academic-website-template/</link>
+  <link>https://jonathanmbinder.github.io/</link>
   <description>Examples and tips for Quarto Academic Website</description>
   <category>news</category>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/</guid>
+  <guid>https://jonathanmbinder.github.io/</guid>
   <pubDate>Mon, 14 Oct 2024 15:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/placeholder1.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://jonathanmbinder.github.io/files/images/placeholder1.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

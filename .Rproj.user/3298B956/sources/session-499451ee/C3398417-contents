@@ -1,0 +1,87 @@
+---
+title: "Jonathan M. Binder"
+description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
+image: "files/images/DSC01365.JPG"
+page-navigation: false
+toc: false
+#sidebar: false
+page-layout: full
+
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 70%
+  links:
+    - icon: envelope
+      text: E-mail
+      href: mailto:jonathan.binder.2022@live.rhul.ac.uk    
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jonathan-binder/
+      target: _blank
+    - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
+      href: https://orcid.org/0000-0002-5170-939X
+      target: _blank
+    - text: "{{< ai clarivate >}} Web of Science"
+      href: https://www.webofscience.com/wos/author/record/NUP-5412-2025
+      target: _blank
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=gsqSZY4AAAAJ&hl=en
+      target: _blank
+    - icon: sun
+      text: Lab
+      href: http://seedbiology.eu/
+      target: _blank
+    - icon: globe
+      text: Uprofile
+      href: https://pure.royalholloway.ac.uk/en/persons/jonathan-binder
+      target: _blank
+#    - text: "{{< ai researchgate >}} Research Gate"
+#      href: https://www.researchgate.net
+#      target: _blank
+
+listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
+  - id: recent-posts
+    contents: 
+      - posts
+      - posts/post-links.yml
+    exclude:
+      title: ""
+    type: grid
+    max-items: 3
+#    image-height: 150px
+    page-size: 3 #set same as max-times to remove the page number setting
+    fields: [image, date, title, subtitle]
+    max-description-length: 75
+    sort: 
+      - "date desc"
+      - "title asc"
+---
+
+:::{#hero-heading}
+
+I am a PhD student in the [Seed Science and Technology Research Group](seedbiology.de) 
+at [Royal Holloway, University of London](https://royalholloway.ac.uk). I am studying the effects 
+of soil microbiological communities on the longevity of blackgrass (*Alopecurus myosuroides*) 
+seeds in the soil seedbank. My studies are funded by the 
+[London Interdisciplinary Biosciences Consortium Doctoral Training Partnership](https://www.lido-dtp.ac.uk/) (LIDo)
+ with Syngenta AG supporting as an industry partner.
+ 
+## Education 
+
+[The Pennsylvania State University](https://agsci.psu.edu/) |
+MSc in Agronomy | 2019
+
+[Vassar College](https://www.vassar.edu) | BA in Environmental Studies | 2014
+
+:::
+
+
+<!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
+## Recent Posts
+Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)
+
+:::{#recent-posts}
+:::
+
+<p align="right">[All Posts »](/posts.qmd)</p>
