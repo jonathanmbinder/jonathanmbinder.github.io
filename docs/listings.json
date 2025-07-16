@@ -3,7 +3,7 @@
     "listing": "/posts.html",
     "items": [
       "/posts/paper-raphanus-pericarp/index.html",
-      "/posts/event-EWRS_biological_control/index.html",
+      "/posts/event-EWRS-biological-control/index.html",
       "/posts/news-title/index.html"
     ]
   },
@@ -15,7 +15,7 @@
     "listing": "/index.html",
     "items": [
       "/posts/paper-raphanus-pericarp/index.html",
-      "/posts/event-EWRS_biological_control/index.html",
+      "/posts/event-EWRS-biological-control/index.html",
       "/posts/news-title/index.html"
     ]
   },
