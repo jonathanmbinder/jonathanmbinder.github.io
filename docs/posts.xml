@@ -161,7 +161,7 @@ https://quarto.org/docs/authoring/includes.html
   <category>news</category>
   <guid>https://jonathanmbinder.github.io/posts/news-Guatemala-trip/</guid>
   <pubDate>Wed, 23 Apr 2025 15:00:00 GMT</pubDate>
-  <media:content url="https://jonathanmbinder.github.io/posts/news-Guatemala-trip/pic4.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://jonathanmbinder.github.io/posts/news-Guatemala-trip/pic4cropped.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>EWRS Working Group: Biological Control Workshop</title>
@@ -198,15 +198,6 @@ https://quarto.org/docs/authoring/includes.html
   <guid>https://jonathanmbinder.github.io/posts/event-EWRS-biological-control/</guid>
   <pubDate>Tue, 29 Oct 2024 15:00:00 GMT</pubDate>
   <media:content url="https://jonathanmbinder.github.io/posts/event-EWRS-biological-control/pic1.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Quarto Academic Website Examples and Tips</title>
-  <link>https://jonathanmbinder.github.io/</link>
-  <description>Examples and tips for Quarto Academic Website</description>
-  <category>news</category>
-  <guid>https://jonathanmbinder.github.io/</guid>
-  <pubDate>Mon, 14 Oct 2024 15:00:00 GMT</pubDate>
-  <media:content url="https://jonathanmbinder.github.io/files/images/placeholder1.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
