@@ -113,3 +113,5 @@ format:
     link-external-filter: '^(?:http:|https:)\/\/drganghe\.github\.io\/custom'
     include-in-header: "files/includes/_academic.qmd"
 
+redirect_from:
+  - /en/

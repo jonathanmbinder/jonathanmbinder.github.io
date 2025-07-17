@@ -56,6 +56,8 @@ listing:   # Comment the listing section and delete corresponding lines in the i
     sort: 
       - "date desc"
       - "title asc"
+redirect_from:
+  - /en/
 ---
 
 :::{#hero-heading}
