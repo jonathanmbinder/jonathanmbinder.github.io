@@ -7,9 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Dr.&nbsp;Gang He">
-<meta name="description" content="Posts about papers, events, news, and more">
+<meta name="description" content="Quarto Academic Website Template adapted by Dr.&nbsp;Gang He">
 
-<title>What’s New &amp; Updated – Jonathan M. Binder</title>
+<title>Jonathan M. Binder</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -37,7 +37,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -45,6 +44,8 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/bootstrap/bootstrap-3146a0984a964146c28da0a2cf78b9ad.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/academicons-1.9.2/all.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/academicons-1.9.2/size.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -74,20 +75,20 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    const listingTargetEl = window.document.querySelector('#listing-recent-posts .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-subtitle','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-image','listing-date','listing-title','listing-subtitle',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+    window['quarto-listings']['listing-recent-posts'] = new List('listing-recent-posts', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -161,13 +162,13 @@ window.Quarto = {
 </script>
 
 <link rel="stylesheet" href="styles.css">
-<link rel="alternate" type="application/rss+xml" title="Jonathan M. Binder" href="posts.xml" data-external="1"><meta property="og:title" content="What’s New &amp; Updated – Jonathan M. Binder">
-<meta property="og:description" content="Posts about papers, events, news, and more">
-<meta property="og:image" content="https://jonathanmbinder.github.io/posts/paper-raphanus-pericarp/mcaf015_fig7.jpg">
+<meta property="og:title" content="Jonathan M. Binder">
+<meta property="og:description" content="Quarto Academic Website Template adapted by Dr.&nbsp;Gang He">
+<meta property="og:image" content="https://jonathanmbinder.github.io/files/images/DSC01365.JPG">
 <meta property="og:site_name" content="Jonathan M. Binder">
-<meta name="twitter:title" content="What’s New &amp; Updated – Jonathan M. Binder">
-<meta name="twitter:description" content="Posts about papers, events, news, and more">
-<meta name="twitter:image" content="https://jonathanmbinder.github.io/posts/paper-raphanus-pericarp/mcaf015_fig7.jpg">
+<meta name="twitter:title" content="Jonathan M. Binder">
+<meta name="twitter:description" content="Quarto Academic Website Template adapted by Dr.&nbsp;Gang He">
+<meta name="twitter:image" content="https://jonathanmbinder.github.io/files/images/DSC01365.JPG">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -242,7 +243,7 @@ window.Quarto = {
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./ko.html"> 
+    <a class="nav-link active" href="./ko.html" aria-current="page"> 
 <span class="menu-text">한국어</span></a>
   </li>  
 </ul>
@@ -273,33 +274,14 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div><div class="category" data-category="ZXZlbnQ=">event <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bmV3cw==">news <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cGFwZXI=">paper <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cHJlc2VudGF0aW9u">presentation <span class="quarto-category-count">(1)</span></div></div></div>
+    
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">What’s New &amp; Updated</h1>
-<p class="subtitle lead">Posts about papers, events, news, and more</p>
-</div>
+<main class="content column-page" id="quarto-document-content">
 
 
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
 
 
 <script type="text/javascript">
@@ -309,147 +291,136 @@ window.Quarto = {
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "sgavftba89");
 </script>
-<div id="posts">
-
+<div class="quarto-about-trestles column-page">
+  <div class="about-entity">
+    <img src="files/images/DSC01365.JPG" class="about-image
+  rounded " style="width: 70%;">
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Jonathan M. Binder</h1>
 </div>
-
-
-
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Order By</option>
-       <option value="index" data-direction="asc">Default</option>
-         <option value="listing-title" data-direction="asc">
-          Title
-        </option>
-         <option value="listing-date-sort" data-direction="asc">
-          Date - Oldest
-        </option>
-         <option value="listing-date-sort" data-direction="desc">
-          Date - Newest
-        </option>
-         <option value="listing-author" data-direction="asc">
-          Author
-        </option>
-     </select>
+<div class="quarto-title-meta column-page">
   </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
+</header>
+    <div class="about-links">
+  <a href="mailto:jonathan.binder.2022@live.rhul.ac.uk" class="about-link" rel="" target="">
+    <i class="bi bi-envelope"></i>
+     <span class="about-link-text">E-mail</span>
+  </a>
+  <a href="https://www.linkedin.com/in/jonathan-binder/" class="about-link" rel="" target="_blank">
+    <i class="bi bi-linkedin"></i>
+     <span class="about-link-text">LinkedIn</span>
+  </a>
+  <a href="https://orcid.org/0000-0002-5170-939X" class="about-link" rel="" target="_blank">
+     <span class="about-link-text"><i class="ai  ai-orcid"></i> ORCID</span>
+  </a>
+  <a href="https://www.webofscience.com/wos/author/record/NUP-5412-2025" class="about-link" rel="" target="_blank">
+     <span class="about-link-text"><i class="ai  ai-clarivate"></i> Web of Science</span>
+  </a>
+  <a href="https://scholar.google.com/citations?user=gsqSZY4AAAAJ&amp;hl=en" class="about-link" rel="" target="_blank">
+     <span class="about-link-text"><i class="ai  ai-google-scholar"></i> Google Scholar</span>
+  </a>
+  <a href="http://seedbiology.eu/" class="about-link" rel="" target="_blank">
+    <i class="bi bi-sun"></i>
+     <span class="about-link-text">Lab</span>
+  </a>
+  <a href="https://pure.royalholloway.ac.uk/en/persons/jonathan-binder" class="about-link" rel="" target="_blank">
+    <i class="bi bi-globe"></i>
+     <span class="about-link-text">Uprofile</span>
+  </a>
 </div>
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="cGFwZXI=" data-listing-date-sort="1746716400000" data-listing-file-modified-sort="1752574890126" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="229">
-<div class="thumbnail">
-<p><a href="./posts/paper-raphanus-pericarp/index.html" class="no-external"></a></p><a href="./posts/paper-raphanus-pericarp/index.html" class="no-external">
-<p><img loading="lazy" src="./posts/paper-raphanus-pericarp/mcaf015_fig7.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/paper-raphanus-pericarp/index.html" class="no-external"></a></p>
+  </div>
+  <div class="about-contents"><div id="hero-heading">
+<p>저는 <a href="https://royalholloway.ac.uk">로열 홀러웨이 런던대학교</a>에 있는 <a href="seedbiology.de">종자 과학 기술 연구 그룹</a>에 속한 박사생입니다. 미생물 커뮤니티 쥐꼬리뚝새풀 (<em>Alopecurus myosuroides</em>) 토양시드뱅크내 종자 지속성에 끼치는 영향을 공부합니다. 농약회사 신젠다 제 연구를 지원합니다.</p>
+<section id="학력" class="level2">
+<h2 data-anchor-id="학력">학력</h2>
+<p><a href="https://agsci.psu.edu/">펜실베니아 주립 대학교</a> | 작물학 석사 학위 | 2019</p>
+<p><a href="https://www.vassar.edu">배서 칼리지</a> | 환경학 학사 학위 | 2014</p>
+</section>
+</div></div>
 </div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/paper-raphanus-pericarp/index.html" class="no-external">Comparative pericarp biomechanics and germination physiology of <i>Raphanus raphanistrum</i> and <i>Raphanus pugioniformis</i> indehiscent fruits</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/paper-raphanus-pericarp/index.html" class="no-external"><em>Annals of Botany</em></a>
+
+<!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
+<section id="recent-posts" class="level2">
+<h2 data-anchor-id="recent-posts">Recent Posts</h2>
+<p>Check out the latest &nbsp;<a href="./posts.html#category=paper">Papers</a>&nbsp;, &nbsp;<a href="./posts.html#category=news">News</a>&nbsp;, &nbsp;<a href="./posts.html#category=event">Events</a>&nbsp;, and &nbsp;<a href="./posts.html">More »</a></p>
+<div id="listing-recent-posts" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="cGFwZXI=" data-listing-date-sort="1746716400000" data-listing-file-modified-sort="1752574890126" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="229">
+<a href="./posts/paper-raphanus-pericarp/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./posts/paper-raphanus-pericarp/mcaf015_fig7.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Comparative pericarp biomechanics and germination physiology of <i>Raphanus raphanistrum</i> and <i>Raphanus pugioniformis</i> indehiscent fruits
+</h5>
+<div class="card-subtitle listing-subtitle">
+<em>Annals of Botany</em>
 </div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('cGFwZXI='); return false;">
-paper
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/paper-raphanus-pericarp/index.html" class="no-external">A multiscale biomechanics and imaging (microscopy, X-ray, finite element stress simulation, puncture force analysis) approach was used to comparatively investigate the indehiscent fruits of <i>R. raphanistrum</i> (global weed), <em>R. pugioniformis</em> (endemic weed) and <em>R. sativus</em> (cultivated radish).</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/paper-raphanus-pericarp/index.html" class="no-external">
+<div class="card-attribution card-text-small end">
 <div class="listing-date">
 May 9, 2025
 </div>
-<div class="listing-author">
-Tina Steinbrecher, Samik Bhattacharya, Jonathan Binder, Katharina Kleemeier, Felix Przesdzink, Franziska Groene, Kyra Jacoblinnert, Klaus Mummenhoff, Gerhard Leubner-Metzger
+</div>
+</div>
 </div>
 </a>
 </div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="bmV3cw==" data-listing-date-sort="1745420400000" data-listing-file-modified-sort="1752752422037" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="95">
-<div class="thumbnail">
-<p><a href="./posts/news-Guatemala-trip/index.html" class="no-external"></a></p><a href="./posts/news-Guatemala-trip/index.html" class="no-external">
-<p><img loading="lazy" src="./posts/news-Guatemala-trip/pic4cropped.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/news-Guatemala-trip/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/news-Guatemala-trip/index.html" class="no-external">Networking trip to Guatemala</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/news-Guatemala-trip/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('bmV3cw=='); return false;">
-news
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/news-Guatemala-trip/index.html" class="no-external">I took a trip to Guatemala to meet with researchers at Universidad del Valle de Guatemala to discuss a soil health project for cardamom production.</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/news-Guatemala-trip/index.html" class="no-external">
+<div class="g-col-1" data-index="1" data-categories="bmV3cw==" data-listing-date-sort="1745420400000" data-listing-file-modified-sort="1752752422037" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="95">
+<a href="./posts/news-Guatemala-trip/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./posts/news-Guatemala-trip/pic4cropped.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Networking trip to Guatemala
+</h5>
+<div class="card-attribution card-text-small end">
 <div class="listing-date">
 Apr 24, 2025
 </div>
-<div class="listing-author">
-Jonathan Binder
+</div>
+</div>
 </div>
 </a>
 </div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="ZXZlbnQlMkNwcmVzZW50YXRpb24=" data-listing-date-sort="1730214000000" data-listing-file-modified-sort="1752630529008" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="87">
-<div class="thumbnail">
-<p><a href="./posts/event-EWRS-biological-control/index.html" class="no-external"></a></p><a href="./posts/event-EWRS-biological-control/index.html" class="no-external">
-<p><img loading="lazy" src="./posts/event-EWRS-biological-control/pic1.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/event-EWRS-biological-control/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/event-EWRS-biological-control/index.html" class="no-external">EWRS Working Group: Biological Control Workshop</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/event-EWRS-biological-control/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('ZXZlbnQ='); return false;">
-event
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('cHJlc2VudGF0aW9u'); return false;">
-presentation
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/event-EWRS-biological-control/index.html" class="no-external">I presented on my <em>Alopecurus myosuroides</em> research for the European Weed Research Society in Antalya, Turkey.</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/event-EWRS-biological-control/index.html" class="no-external">
+<div class="g-col-1" data-index="2" data-categories="ZXZlbnQlMkNwcmVzZW50YXRpb24=" data-listing-date-sort="1730214000000" data-listing-file-modified-sort="1752630529008" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="87">
+<a href="./posts/event-EWRS-biological-control/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./posts/event-EWRS-biological-control/pic1.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+EWRS Working Group: Biological Control Workshop
+</h5>
+<div class="card-attribution card-text-small end">
 <div class="listing-date">
 Oct 30, 2024
 </div>
-<div class="listing-author">
-Jonathan Binder
+</div>
+</div>
 </div>
 </a>
-</div>
 </div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items
 </div>
-</div></main> <!-- /main -->
+</div>
+<p align="right">
+<a href="./posts.html">All Posts »</a>
+</p>
+
+
+
+
+</section>
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -470,13 +441,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     

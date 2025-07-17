@@ -26,5 +26,13 @@
   {
     "listing": "/grants.html",
     "items": []
+  },
+  {
+    "listing": "/ko.html",
+    "items": [
+      "/posts/paper-raphanus-pericarp/index.html",
+      "/posts/news-Guatemala-trip/index.html",
+      "/posts/event-EWRS-biological-control/index.html"
+    ]
   }
 ]
