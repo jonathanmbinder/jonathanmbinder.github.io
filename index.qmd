@@ -57,7 +57,7 @@ listing:   # Comment the listing section and delete corresponding lines in the i
       - "date desc"
       - "title asc"
 redirect_from:
-  - /en
+  - /en/
 ---
 
 {{< include /files/includes/_msclarity.qmd >}}
