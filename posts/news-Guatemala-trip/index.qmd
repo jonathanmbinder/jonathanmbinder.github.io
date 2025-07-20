@@ -4,7 +4,7 @@ description: "I took a trip to Guatemala to meet with researchers at Universidad
 author: "Jonathan Binder"
 date: "2025-04-24"
 categories: [news]
-image: "pic4.jpg"
+image: "pic4cropped.jpg"
 #css: /custom.css
 #draft: true
 lightbox: true

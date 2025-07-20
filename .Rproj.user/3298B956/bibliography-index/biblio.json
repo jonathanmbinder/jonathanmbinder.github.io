@@ -1,5 +1,123 @@
 {
-    "sources": [],
+    "sources": [
+        {
+            "DOI": "10.1038/s41893-019-0450-8",
+            "URL": "http://www.nature.com/articles/s41893-019-0450-8",
+            "author": [
+                {
+                    "family": "Varah",
+                    "given": "Alexa"
+                },
+                {
+                    "family": "Ahodo",
+                    "given": "Kwadjo"
+                },
+                {
+                    "family": "Coutts",
+                    "given": "Shaun R."
+                },
+                {
+                    "family": "Hicks",
+                    "given": "Helen L."
+                },
+                {
+                    "family": "Comont",
+                    "given": "David"
+                },
+                {
+                    "family": "Crook",
+                    "given": "Laura"
+                },
+                {
+                    "family": "Hull",
+                    "given": "Richard"
+                },
+                {
+                    "family": "Neve",
+                    "given": "Paul"
+                },
+                {
+                    "family": "Childs",
+                    "given": "Dylan Z."
+                },
+                {
+                    "family": "Freckleton",
+                    "given": "Robert P."
+                },
+                {
+                    "family": "Norris",
+                    "given": "Ken"
+                }
+            ],
+            "container-title": "Nature Sustainability",
+            "id": "varah2020",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        1
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "63-71",
+            "title": "The costs of human-induced evolution in an agricultural system",
+            "type": "article-journal",
+            "volume": "3"
+        },
+        {
+            "DOI": "10.1111/j.1469-8137.2006.01788.x",
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2006.01788.x",
+            "author": [
+                {
+                    "family": "Menchari",
+                    "given": "Yosra"
+                },
+                {
+                    "family": "Camilleri",
+                    "given": "Christine"
+                },
+                {
+                    "family": "Michel",
+                    "given": "Séverine"
+                },
+                {
+                    "family": "Brunel",
+                    "given": "Dominique"
+                },
+                {
+                    "family": "Dessaint",
+                    "given": "Fabrice"
+                },
+                {
+                    "family": "Le Corre",
+                    "given": "Valérie"
+                },
+                {
+                    "family": "Délye",
+                    "given": "Christophe"
+                }
+            ],
+            "container-title": "New Phytologist",
+            "id": "menchari2006",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2006,
+                        9
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "861-874",
+            "title": "Weed response to herbicides: regional-scale distribution of herbicide resistance alleles in the grass weed <i>Alopecurus myosuroides</i>",
+            "title-short": "Weed response to herbicides",
+            "type": "article-journal",
+            "volume": "171"
+        }
+    ],
     "project_biblios": [
         "references.bib"
     ]

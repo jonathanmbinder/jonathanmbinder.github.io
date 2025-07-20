@@ -1,24 +1,42 @@
 ---
 title: "Projects"
-
+csl: agronomy-journal.csl
 ---
 
+{{< include /files/includes/_msclarity.qmd >}}
 
-:::{#projects}
+::: {#projects}
 :::
 
+I base my research in sound experimental design and appropriate statistical analysis.
+I am an avid [R](https://www.r-project.org/) user and leverage the language for statistical analysis and data visualization.
+
+Methods I use in my current research include media-dependent (culturing) and -independent (amplicon and shotgun metagenomics) microbiome characterization, bioinformatics, germination modelling, and machine learning.
 
 ## *Alopecurus myosuroides*-associated microorganisms
 
-*Alopecurus myosuroides* is an economically-important weed species in the United Kingdom and Europe.
-Some populations have developed resistance to herbicides and novel methods of control are needed for this weed.
+*Alopecurus myosuroides* is an economically-important weed species in the United Kingdom and Europe [@varah2020].
+Some populations have developed resistance to herbicides and novel methods of control are needed for this weed [@menchari2006].
 
-Microorganisms can play an important role in plant health, but seed-associated microorganisms have often been overlooked -- especially in weed species. My research intends to determine how microorganisms affect *A. myosuroides* seed persistence in the soil seed bank.
+Microorganisms can play an important role in plant health, but seed-associated microorganisms have often been overlooked -- especially in weed species.
+My research intends to determine how microorganisms affect *A. myosuroides* seed persistence in the soil seed bank.
 
-::: {layout-ncol=2}
-
+::: {layout-ncol="2"}
 ![*Alopecurus myosuroides* at flowering. Credit: <a href="https://commons.wikimedia.org/wiki/File:Alopecurus_myosuroides_kz05.jpg">Krzysztof Ziarnek, Kenraiz</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/0/00/Alopecurus_myosuroides_kz05.jpg)
 
-![*Alopecurus myosuroides* spikelets (commonly *seeds*). Credit: <a href="https://commons.wikimedia.org/wiki/File:Alopecurus_myosuroides_seeds_almy_004_php.jpg">Steve Hurst @ USDA-NRCS PLANTS Database</a>, Public domain, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/9/9a/Alopecurus_myosuroides_seeds_almy_004_php.jpg)
-
+![*Alopecurus myosuroides* spikelets (commonly *seeds*). Credit: <a href="https://commons.wikimedia.org/wiki/File:Alopecurus_myosuroides_seeds_almy_004_php.jpg">Steve Hurst \@ USDA-NRCS PLANTS Database</a>, Public domain, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/9/9a/Alopecurus_myosuroides_seeds_almy_004_php.jpg)
 :::
+
+## Soil fertilizer recommendation for Guatemalan cardamom farmers
+
+Lead by researchers at [Universidad del Valle de Guatemala](https://www.uvg.edu.gt/investigacion/ceaa/), a large-scale soil sampling and soil analysis research project seeks to develop fertilizer recommendations for green cardamom (*Elettaria cardamomum*).
+
+::: {layout-ncol="2"}
+![Credit: [https://www.nuevakerala.com/crop-calendar](https://www.nuevakerala.com/crop-calendar)](https://images.squarespace-cdn.com/content/v1/5dcac5340ac6e16c2963607a/530b218c-2057-4917-b270-dd98cae3118e/MAPA.jpg?format=1500w)
+
+![Credit: [https://www.mercycorps.org/blog/cardamom-guatemalan-farmers-communities](https://www.mercycorps.org/blog/cardamom-guatemalan-farmers-communities)](https://www.mercycorps.org/sites/default/files/styles/mercycorps_default_large_1x/public/2022-01/Guatemala-20220111-Francisco_Pop-004-6240x4160px.webp?h=a5468256&itok=bl3TnvLs)
+:::
+
+## Weed endozoochory in a Brazilian context
+
+Led by [Prof. Carlos Schaedler](https://awsjournal.org/editor/carlos-eduardo-schaedler/) of Sul-Rio-Grandense Federal Institute of Education, Science and Technology ([IFSul](https://www.ifsul.edu.br/)), this research project uses animal studies and time-to-event analysis to investigate the transport of weed seeds by both wild and domestic animals in the south of Brazil with a focus on the spread of herbicide resistance.

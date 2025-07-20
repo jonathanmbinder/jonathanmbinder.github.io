@@ -25,6 +25,7 @@ listing:
     - grants.yml 
 ---
 
+{{< include /files/includes/_msclarity.qmd >}}
 
 :::{#grants}
 :::

@@ -4,6 +4,8 @@ description-meta: "Reach out to me with questions and comments"
 title-block-banner: false
 ---
 
+{{< include /files/includes/_msclarity.qmd >}}
+
 Royal Holloway, University of London  
 
 Address:  

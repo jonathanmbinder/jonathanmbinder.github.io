@@ -12,7 +12,7 @@ listing:
   feed: true
   contents: 
       - posts
-      - posts/post-links.yml  # Use this file to add external links
+#      - posts/post-links.yml  # Use this file to add external links
 #      categories: [] 
 
 #page-layout: full
@@ -20,6 +20,8 @@ draft-mode: unlinked
 page-navigation: false
 title-block-banner: false
 ---
+
+{{< include /files/includes/_msclarity.qmd >}}
 
 :::{#posts}
 :::
