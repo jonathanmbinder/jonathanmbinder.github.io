@@ -1,7 +1,46 @@
 ---
-title: Page Unplugged
+title: ""
+format: html
 ---
 
-The page you requested cannot be found (perhaps it was unplugged).
+```{=html}
+<style>
+  .error-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    text-align: center;
+  }
 
-You may want to try searching to find the page's new plug.
+  .error-message {
+    font-family: monospace;
+    font-size: 4em;
+    font-weight: bold;
+    color: #d9534f;
+    border: 2px solid #d9534f;
+    padding: 1em 2em;
+    border-radius: 10px;
+    background-color: #fdf2f2;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    margin-bottom: 1rem;
+  }
+
+  .error-subtext {
+    font-family: monospace;
+    font-size: 1.5em;
+    color: #000000;
+  }
+</style>
+
+<div class="error-box">
+  <div class="error-message">
+    404 Error
+  </div>
+  <div class="error-subtext">
+    Uh oh, something went wrong. But that's part of research.<br>
+    <a href="https://jonathanmbinder.github.io/" target="_blank">Go back to the drawing board</a>.
+  </div>
+</div>
+```
