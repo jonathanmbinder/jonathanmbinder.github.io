@@ -39,7 +39,8 @@ format: html
     404 Error
   </div>
   <div class="error-subtext">
-    Uh oh, something went wrong. But that's part of research.<br>
+    Uh oh, something went wrong.<br>
+    But that's part of research.<br>
     <a href="https://jonathanmbinder.github.io/" target="_blank">Go back to the drawing board</a>.
   </div>
 </div>

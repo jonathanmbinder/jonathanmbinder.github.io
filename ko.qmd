@@ -1,0 +1,92 @@
+---
+title: '조나단'
+description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
+image: "files/images/DSC01365.JPG"
+page-navigation: false
+toc: false
+#sidebar: false
+page-layout: full
+# mainfont: BM Hanna Air
+
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 70%
+  links:
+    - icon: envelope
+      text: E-mail
+      href: mailto:jonathan.binder.2022@live.rhul.ac.uk    
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jonathan-binder/
+      target: _blank
+    - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
+      href: https://orcid.org/0000-0002-5170-939X
+      target: _blank
+    - text: "{{< ai clarivate >}} Web of Science"
+      href: https://www.webofscience.com/wos/author/record/NUP-5412-2025
+      target: _blank
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=gsqSZY4AAAAJ&hl=en
+      target: _blank
+    - icon: sun
+      text: Lab
+      href: http://seedbiology.eu/
+      target: _blank
+    - icon: globe
+      text: Uprofile
+      href: https://pure.royalholloway.ac.uk/en/persons/jonathan-binder
+      target: _blank
+#    - text: "{{< ai researchgate >}} Research Gate"
+#      href: https://www.researchgate.net
+#      target: _blank
+
+listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
+  - id: recent-posts
+    contents: 
+      - posts
+#      - posts/post-links.yml
+    exclude:
+      title: ""
+    type: grid
+    max-items: 3
+#    image-height: 150px
+    page-size: 3 #set same as max-times to remove the page number setting
+    fields: [image, date, title, subtitle]
+    max-description-length: 75
+    sort: 
+      - "date desc"
+      - "title asc"
+redirect_from:
+  - /en
+---
+
+{{< include /files/includes/_msclarity.qmd >}}
+
+:::{#hero-heading}
+<span lang="ko">
+저는 [로열 홀러웨이 런던대학교](https://royalholloway.ac.uk)에 있는 [종자 과학 기술 연구 그룹](seedbiology.de)에 속한 박사생입니다. 미생물 커뮤니티 쥐꼬리뚝새풀 (*Alopecurus myosuroides*) 
+토양시드뱅크내 종자 지속성에 끼치는 영향을 공부합니다. 농약회사 신젠다 제 연구를 지원합니다.
+ </span>
+ 
+## 학력 {lang="ko"}
+
+<span lang="ko">
+[로열 홀러웨이 런던대학교](https://namu.wiki/w/%EB%A1%9C%EC%97%B4%20%ED%99%80%EB%9F%AC%EC%9B%A8%EC%9D%B4%20%EB%8C%80%ED%95%99%EA%B5%90) | 생명과학과 | 2026 (예상)
+
+[펜실베니아 주립 대학교](https://agsci.psu.edu/) |
+작물학 석사 학위  | 2019
+
+[바사 칼리지](https://namu.wiki/w/%EB%B0%94%EC%82%AC%20%EC%B9%BC%EB%A6%AC%EC%A7%80) | 환경학 학사 학위 | 2014
+</span lang="ko">
+:::
+
+
+<!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
+## Recent Posts
+Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)
+
+:::{#recent-posts}
+:::
+
+<p align="right">[All Posts »](/posts.qmd)</p>
