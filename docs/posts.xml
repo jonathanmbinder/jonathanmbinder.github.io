@@ -15,20 +15,20 @@
 <link>https://jonathanmbinder.github.io/posts.html</link>
 </image>
 <generator>quarto-1.6.39</generator>
-<lastBuildDate>Wed, 23 Jul 2025 15:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 23 Jul 2025 23:00:00 GMT</lastBuildDate>
 <item>
   <title>2025 Korean Phytobiome Research Symposium</title>
   <dc:creator>Jonathan Binder</dc:creator>
-  <link>https://jonathanmbinder.github.io/posts/event-2025-korean-phytobiome/</link>
+  <link>https://jonathanmbinder.github.io/posts/events/2025/event-Korean-phytobiome-symposium/</link>
   <description><![CDATA[ 
 
 
 
 
 <p>I attended my first conference in Korea (official language of conference: English) at the <a href="https://www.bdna.or.kr/eng/intro">Baekdudaegan National Arboretum</a> hosted by the Phytobiome Research Group of the <a href="https://www.kspp.org/">Korean Plant Pathology Society</a>.</p>
-<p>Invited speakers included Prof.&nbsp;Kenichi Tsuda (Huazhong Agricultural University) and Sora Yu (Lawrence Berkeley National Lab). It was great to see organizers Prof.&nbsp;Junhyun Jeon and Prof.&nbsp;Kihyuck Choi make efforts to cultivate young researchers as well with presentations from graduate students and post-doctoral researchers.</p>
+<p>Invited speakers included Prof.&nbsp;Kenichi Tsuda (Huazhong Agricultural University) and Sora Yu (Lawrence Berkeley National Lab). It was great to see organizers Prof.&nbsp;Junhyun Jeon and Prof.&nbsp;Kihyuck Choi make efforts to cultivate young researchers as well with additional presentations from graduate students and post-doctoral researchers.</p>
 <p>I’m looking forward to the next meeting!</p>
-<p>[<img src="https://jonathanmbinder.github.io/posts/event-2025-korean-phytobiome/pic.jpeg" class="img-fluid" style="width:90.0%">]</p>
+<p>[<img src="https://jonathanmbinder.github.io/posts/events/2025/event-Korean-phytobiome-symposium/pic.jpeg" class="img-fluid" style="width:90.0%">]</p>
 <!--Include social share buttons-->
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 
@@ -44,41 +44,9 @@ https://quarto.org/docs/authoring/includes.html
 
  ]]></description>
   <category>event</category>
-  <guid>https://jonathanmbinder.github.io/posts/event-2025-korean-phytobiome/</guid>
-  <pubDate>Wed, 23 Jul 2025 15:00:00 GMT</pubDate>
-  <media:content url="https://jonathanmbinder.github.io/posts/event-2025-korean-phytobiome/pic.jpeg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>2025 Korean Phytobiome Research Symposium</title>
-  <dc:creator>Jonathan Binder</dc:creator>
-  <link>https://jonathanmbinder.github.io/posts/events/2025/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>I attended my first conference in Korea (official language of conference: English) at the <a href="https://www.bdna.or.kr/eng/intro">Baekdudaegan National Arboretum</a> hosted by the Phytobiome Research Group of the <a href="https://www.kspp.org/">Korean Plant Pathology Society</a>.</p>
-<p>Invited speakers included Prof.&nbsp;Kenichi Tsuda (Huazhong Agricultural University) and Sora Yu (Lawrence Berkeley National Lab). It was great to see organizers Prof.&nbsp;Junhyun Jeon and Prof.&nbsp;Kihyuck Choi make efforts to cultivate young researchers as well with presentations from graduate students and post-doctoral researchers.</p>
-<p>I’m looking forward to the next meeting!</p>
-<p>[<img src="https://jonathanmbinder.github.io/posts/events/2025/pic.jpeg" class="img-fluid" style="width:90.0%">]</p>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
-</div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
-
-
-
- ]]></description>
-  <category>event</category>
-  <guid>https://jonathanmbinder.github.io/posts/events/2025/</guid>
-  <pubDate>Wed, 23 Jul 2025 15:00:00 GMT</pubDate>
-  <media:content url="https://jonathanmbinder.github.io/posts/events/2025/pic.jpeg" medium="image" type="image/jpeg"/>
+  <guid>https://jonathanmbinder.github.io/posts/events/2025/event-Korean-phytobiome-symposium/</guid>
+  <pubDate>Wed, 23 Jul 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://jonathanmbinder.github.io/posts/events/2025/event-Korean-phytobiome-symposium/pic.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Comparative pericarp biomechanics and germination physiology of Raphanus raphanistrum and Raphanus pugioniformis indehiscent fruits</title>
@@ -91,7 +59,7 @@ https://quarto.org/docs/authoring/includes.html
   <dc:creator>Kyra Jacoblinnert</dc:creator>
   <dc:creator>Klaus Mummenhoff</dc:creator>
   <dc:creator>Gerhard Leubner-Metzger</dc:creator>
-  <link>https://jonathanmbinder.github.io/posts/paper-raphanus-pericarp/</link>
+  <link>https://jonathanmbinder.github.io/posts/papers/2025/paper-raphanus-pericarp/</link>
   <description><![CDATA[ 
 
 
@@ -169,14 +137,14 @@ germination physiology of <em>Raphanus raphanistrum</em> and
 135(5): 977–89. doi: <a href="https://doi.org/10.1093/aob/mcaf015">10.1093/aob/mcaf015</a>.
 </div></div></section></div> ]]></description>
   <category>paper</category>
-  <guid>https://jonathanmbinder.github.io/posts/paper-raphanus-pericarp/</guid>
-  <pubDate>Thu, 08 May 2025 15:00:00 GMT</pubDate>
-  <media:content url="https://jonathanmbinder.github.io/posts/paper-raphanus-pericarp/mcaf015_fig7.jpg" medium="image" type="image/jpeg"/>
+  <guid>https://jonathanmbinder.github.io/posts/papers/2025/paper-raphanus-pericarp/</guid>
+  <pubDate>Thu, 08 May 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://jonathanmbinder.github.io/posts/papers/2025/paper-raphanus-pericarp/mcaf015_fig7.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Networking trip to Guatemala</title>
   <dc:creator>Jonathan Binder</dc:creator>
-  <link>https://jonathanmbinder.github.io/posts/news-Guatemala-trip/</link>
+  <link>https://jonathanmbinder.github.io/posts/news/2025/news-Guatemala-trip/</link>
   <description><![CDATA[ 
 
 
@@ -186,25 +154,25 @@ germination physiology of <em>Raphanus raphanistrum</em> and
 <p>You can see my LinkedIn posts <a href="https://www.linkedin.com/posts/jonathan-binder_the-first-stop-of-my-guatemala-networking-activity-7305575684893003778-84Tq?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAABNghmQBCfkIj1Hs63ssN_qV1wy9CxRgZbA">1</a>, <a href="https://www.linkedin.com/posts/jonathan-binder_the-second-stop-on-my-guatemala-networking-activity-7306294417449992192-sIqU?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAABNghmQBCfkIj1Hs63ssN_qV1wy9CxRgZbA">2</a>, and <a href="https://www.linkedin.com/posts/jonathan-binder_the-third-and-final-stop-of-my-guatemala-activity-7308042396179546114-S9E2?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAABNghmQBCfkIj1Hs63ssN_qV1wy9CxRgZbA">3</a>.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="pic1.jpg" class="lightbox" data-gallery="my-gallery" title="Seminar at San Carlos University"><img src="https://jonathanmbinder.github.io/posts/news-Guatemala-trip/pic1.jpg" class="img-fluid figure-img" alt="Seminar at San Carlos University"></a></p>
+<p><a href="pic1.jpg" class="lightbox" data-gallery="my-gallery" title="Seminar at San Carlos University"><img src="https://jonathanmbinder.github.io/posts/news/2025/news-Guatemala-trip/pic1.jpg" class="img-fluid figure-img" alt="Seminar at San Carlos University"></a></p>
 <figcaption>Seminar at San Carlos University</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="pic3.jpg" class="lightbox" data-gallery="my-gallery" title="ICTA new maize variety"><img src="https://jonathanmbinder.github.io/posts/news-Guatemala-trip/pic3.jpg" class="img-fluid figure-img" alt="ICTA new maize variety"></a></p>
+<p><a href="pic3.jpg" class="lightbox" data-gallery="my-gallery" title="ICTA new maize variety"><img src="https://jonathanmbinder.github.io/posts/news/2025/news-Guatemala-trip/pic3.jpg" class="img-fluid figure-img" alt="ICTA new maize variety"></a></p>
 <figcaption>ICTA new maize variety</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="pic2.jpg" class="lightbox" data-gallery="my-gallery" title="Greenhouse study at UVG"><img src="https://jonathanmbinder.github.io/posts/news-Guatemala-trip/pic2.jpg" class="img-fluid figure-img" alt="Greenhouse study at UVG"></a></p>
+<p><a href="pic2.jpg" class="lightbox" data-gallery="my-gallery" title="Greenhouse study at UVG"><img src="https://jonathanmbinder.github.io/posts/news/2025/news-Guatemala-trip/pic2.jpg" class="img-fluid figure-img" alt="Greenhouse study at UVG"></a></p>
 <figcaption>Greenhouse study at UVG</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="pic4.jpg" class="lightbox" data-gallery="my-gallery" title="Meeting with Professor Cifuentes"><img src="https://jonathanmbinder.github.io/posts/news-Guatemala-trip/pic4.jpg" class="img-fluid figure-img" alt="Meeting with Professor Cifuentes"></a></p>
+<p><a href="pic4.jpg" class="lightbox" data-gallery="my-gallery" title="Meeting with Professor Cifuentes"><img src="https://jonathanmbinder.github.io/posts/news/2025/news-Guatemala-trip/pic4.jpg" class="img-fluid figure-img" alt="Meeting with Professor Cifuentes"></a></p>
 <figcaption>Meeting with Professor Cifuentes</figcaption>
 </figure>
 </div>
@@ -223,14 +191,14 @@ https://quarto.org/docs/authoring/includes.html
 
  ]]></description>
   <category>news</category>
-  <guid>https://jonathanmbinder.github.io/posts/news-Guatemala-trip/</guid>
-  <pubDate>Wed, 23 Apr 2025 15:00:00 GMT</pubDate>
-  <media:content url="https://jonathanmbinder.github.io/posts/news-Guatemala-trip/pic4cropped.jpg" medium="image" type="image/jpeg"/>
+  <guid>https://jonathanmbinder.github.io/posts/news/2025/news-Guatemala-trip/</guid>
+  <pubDate>Wed, 23 Apr 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://jonathanmbinder.github.io/posts/news/2025/news-Guatemala-trip/pic4cropped.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>EWRS Working Group: Biological Control Workshop</title>
   <dc:creator>Jonathan Binder</dc:creator>
-  <link>https://jonathanmbinder.github.io/posts/event-EWRS-biological-control/</link>
+  <link>https://jonathanmbinder.github.io/posts/events/2024/event-EWRS-biological-control/</link>
   <description><![CDATA[ 
 
 
@@ -242,7 +210,7 @@ https://quarto.org/docs/authoring/includes.html
 </blockquote>
 <p>EWRS Workshop “Managing the Plant Invasions by Biological Control”; 30 October-02 November 2024 in Antalya, Turkey:</p>
 <p><a href="https://blog.invasive-species.org/2024/12/23/european-weed-research-society-working-groups-turn-focus-on-biological-control-of-invasive-alien-plant-species/">CABI blog write-up</a></p>
-<p><a href="https://blog.invasive-species.org/2024/12/23/european-weed-research-society-working-groups-turn-focus-on-biological-control-of-invasive-alien-plant-species/"><img src="https://jonathanmbinder.github.io/posts/event-EWRS-biological-control/pic1.jpg" class="img-fluid" style="width:90.0%"></a></p>
+<p><a href="https://blog.invasive-species.org/2024/12/23/european-weed-research-society-working-groups-turn-focus-on-biological-control-of-invasive-alien-plant-species/"><img src="https://jonathanmbinder.github.io/posts/events/2024/event-EWRS-biological-control/pic1.jpg" class="img-fluid" style="width:90.0%"></a></p>
 <!--Include social share buttons-->
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 
@@ -259,9 +227,9 @@ https://quarto.org/docs/authoring/includes.html
  ]]></description>
   <category>event</category>
   <category>presentation</category>
-  <guid>https://jonathanmbinder.github.io/posts/event-EWRS-biological-control/</guid>
-  <pubDate>Tue, 29 Oct 2024 15:00:00 GMT</pubDate>
-  <media:content url="https://jonathanmbinder.github.io/posts/event-EWRS-biological-control/pic1.jpg" medium="image" type="image/jpeg"/>
+  <guid>https://jonathanmbinder.github.io/posts/events/2024/event-EWRS-biological-control/</guid>
+  <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://jonathanmbinder.github.io/posts/events/2024/event-EWRS-biological-control/pic1.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
