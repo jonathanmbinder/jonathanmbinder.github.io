@@ -2,10 +2,10 @@
   {
     "listing": "/posts.html",
     "items": [
-      "/posts/event-2025-korean-phytobiome/index.html",
-      "/posts/paper-raphanus-pericarp/index.html",
-      "/posts/news-Guatemala-trip/index.html",
-      "/posts/event-EWRS-biological-control/index.html"
+      "/posts/events/2025/event-Korean-phytobiome-symposium/index.html",
+      "/posts/papers/2025/paper-raphanus-pericarp/index.html",
+      "/posts/news/2025/news-Guatemala-trip/index.html",
+      "/posts/events/2024/event-EWRS-biological-control/index.html"
     ]
   },
   {
@@ -15,10 +15,10 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/event-2025-korean-phytobiome/index.html",
-      "/posts/paper-raphanus-pericarp/index.html",
-      "/posts/news-Guatemala-trip/index.html",
-      "/posts/event-EWRS-biological-control/index.html"
+      "/posts/events/2025/event-Korean-phytobiome-symposium/index.html",
+      "/posts/papers/2025/paper-raphanus-pericarp/index.html",
+      "/posts/news/2025/news-Guatemala-trip/index.html",
+      "/posts/events/2024/event-EWRS-biological-control/index.html"
     ]
   },
   {
@@ -33,6 +33,7 @@
     "listing": "/ko.html",
     "items": [
       "/posts/event-2025-korean-phytobiome/index.html",
+      "/posts/events/2025/index.html",
       "/posts/paper-raphanus-pericarp/index.html",
       "/posts/news-Guatemala-trip/index.html",
       "/posts/event-EWRS-biological-control/index.html"
