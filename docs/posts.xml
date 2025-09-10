@@ -15,7 +15,123 @@
 <link>https://jonathanmbinder.github.io/posts.html</link>
 </image>
 <generator>quarto-1.6.39</generator>
-<lastBuildDate>Wed, 23 Jul 2025 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 14 Sep 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Do seed microorganisms mediate nitrate or glucose effects on germination of an agricultural weed?</title>
+  <dc:creator>Jonathan Binder</dc:creator>
+  <dc:creator>Kazumi Nakabayashi</dc:creator>
+  <dc:creator>Tom Holloway</dc:creator>
+  <dc:creator>Ben Oyserman</dc:creator>
+  <dc:creator>Gerhard Leubner-Metzger</dc:creator>
+  <link>https://jonathanmbinder.github.io/posts/events/2025/event-Perth-seed-conference/Perth-poster.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<!--Include academic icons or bottons-->
+<!-- 
+Load Academicons v1: https://jpswalsh.github.io/academicons/
+-->
+<p><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></p>
+<p><link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"></p>
+<!---
+The following code are needed to show dimension citation and altmetrics.
+https://api.altmetric.com/embeds.html
+https://badge.dimensions.ai/
+--->
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
+<section id="introduction" class="level2">
+<h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
+<p>Nitrate (<img src="https://latex.codecogs.com/png.latex?%5Cmathrm%7BNO_3%5E-%7D">) and glucose are present in soil and consumed by microorganisms. These chemicals also act as seed germination signaling molecules <span class="citation" data-cites="alboresi2005 price2003">(Price et al., 2003; Alboresi et al., 2005)</span>. Understanding how seed-associated microorganisms mediate glucose and nitrate exposure or how glucose and nitrate levels shift microbial community structure and function could improve prediction of dormancy break, germination, or decay of weed seeds. This experiment explored the relationships between microorganisms and germination of <em>Alopecurus myosuroides</em> (an economically-important weed) under various nitrate and glucose levels.</p>
+<div id="fig-fungi" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-fungi-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="https://jonathanmbinder.github.io/posts/events/2025/event-Perth-seed-conference/images/composite.png" class="img-fluid figure-img" style="width:100.0%">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-fungi-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1: <em>A. myosuroides</em> seeds with fungal growth observed during a germination assay.
+</figcaption>
+</figure>
+</div>
+</section>
+<section id="methods" class="level2">
+<h2 class="anchored" data-anchor-id="methods">Methods</h2>
+<p>European seed populations up to 5 years old were obtained from Syngenta.</p>
+<p>Dose-response germination assays were conducted in triplicate with nitrate (as <img src="https://latex.codecogs.com/png.latex?%5Cmathrm%7BKNO_3%7D">) and glucose in Petri dishes with approximately 25 seeds at 20 °C and constant light in an environmental chamber. Models were fit with four-parameter log-logistic functions.</p>
+<p>DNA was isolated from dry seeds using the DNeasy PowerSoil Pro kit (Qiagen) and shotgun metagenomic sequencing was conducted on a subset of the populations in triplicate with a MinION Mk1b (Oxford Nanopore Technologies). Nitrogen (N) cycling genes were identified using the NCycDB database <span class="citation" data-cites="tu2019">(Tu et al., 2019)</span> and pathogen microbiomes were classified using a eukaryotic pathogen database (EuPathDB-Clean) <span class="citation" data-cites="lu2018">(Lu and Salzberg, 2018)</span>.</p>
+</section>
+<section id="results" class="level2">
+<h2 class="anchored" data-anchor-id="results">Results</h2>
+<p>Seed populations showed varying sensitivities to nitrate and glucose (Fig. 2).</p>
+<div id="fig-dose" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-dose-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="https://jonathanmbinder.github.io/posts/events/2025/event-Perth-seed-conference/images/dose_response.svg" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-dose-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;2: Germination (<img src="https://latex.codecogs.com/png.latex?G_%7Bmax%7D">) respones of 10 <em>A. myosuroides</em> populations to varying levels of nitrate (<img src="https://latex.codecogs.com/png.latex?%5Cmathrm%7BNO_3%5E-%7D">) and glucose (<img src="https://latex.codecogs.com/png.latex?%5Cmathrm%7BC_6H_%7B12%7DO_6%7D">).
+</figcaption>
+</figure>
+</div>
+<p>N cycling-related gene expression of seed-associated microorganisms showed relatively similarity (Fig. 3) and there were no statistical differences in gene composition between populations (PERMANOVA, p=0.3). Pathogen metagenomes showed separation (Fig. 4) and metagenome compositions were different (PERMANOVA, p&lt;0.001).</p>
+<div id="fig-N" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-N-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="https://jonathanmbinder.github.io/posts/events/2025/event-Perth-seed-conference/images/N_NMDS.svg" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-N-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;3: Non-metric multidimensional scaling (NMDS) plot (Bray-Curtis distances) of N cyle genes in microbial metagenomes of 7 <em>A. myosuroides</em> populations.
+</figcaption>
+</figure>
+</div>
+<div id="fig-glucose" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-glucose-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="https://jonathanmbinder.github.io/posts/events/2025/event-Perth-seed-conference/images/glucose_NMDS.svg" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-glucose-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;4: NMDS plot (Bray-Curtis distances) of eukaryotic pathogen microbial metagenomes of 7 <em>A. myosuroides</em> populations.
+</figcaption>
+</figure>
+</div>
+</section>
+<section id="discussion-and-conclusion" class="level2">
+<h2 class="anchored" data-anchor-id="discussion-and-conclusion">Discussion and Conclusion</h2>
+<p>Lack of differences in microbial N cycle gene compositions between populations suggests that seed microorganisms may not play an important role in seed responses to nitrate. While eukaryotic pathogen microbiomes were different between populations, additional analysis will be completed in an attempt to connect germination dynamics with microbial composition. Because <img src="https://latex.codecogs.com/png.latex?%5Cmathrm%7BC_6H_%7B12%7DO_6%7D"> is a signalling molecule, use of non-signal carbon sources that may provide more fuel to pathogenic seed microorganisms may be better in elucidating seed microorganism effects. Taxonomic and differential abundance analyses will be used to further investigate these research question.</p>
+<p>This experiment focused on seed-associated microorganisms in Petri dishes and ignored soil and soil microbial communities which may have a large effect on nutrient concentrations experienced by the seed.</p>
+<p>Funding provided by:</p>
+<p><img src="https://jonathanmbinder.github.io/posts/events/2025/event-Perth-seed-conference/images/multi_logos.png" class="img-fluid"></p>
+</section>
+<section id="references" class="level2">
+
+
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
+<div id="ref-alboresi2005" class="csl-entry">
+Alboresi, A., C. Gestin, M.-T. Leydecker, M. Bedu, C. Meyer, et al. 2005. Nitrate, a signal relieving seed dormancy in <span><em>Arabidopsis</em></span>. Plant, Cell &amp; Environment 28(4): 500–512. doi: <a href="https://doi.org/10.1111/j.1365-3040.2005.01292.x">10.1111/j.1365-3040.2005.01292.x</a>.
+</div>
+<div id="ref-lu2018" class="csl-entry">
+Lu, J., and S.L. Salzberg. 2018. Removing contaminants from databases of draft genomes. PLoS Computational Biology 14(6): e1006277. doi: <a href="https://doi.org/10.1371/journal.pcbi.1006277">10.1371/journal.pcbi.1006277</a>.
+</div>
+<div id="ref-price2003" class="csl-entry">
+Price, J., T.-C. Li, S.G. Kang, J.K. Na, and J.-C. Jang. 2003. Mechanisms of glucose signaling during germination of Arabidopsis. Plant Physiology 132(3): 1424. doi: <a href="https://doi.org/10.1104/pp.103.020347">10.1104/pp.103.020347</a>.
+</div>
+<div id="ref-tu2019" class="csl-entry">
+Tu, Q., L. Lin, L. Cheng, Y. Deng, and Z. He. 2019. NCycDB: a curated integrative database for fast and accurate metagenomic profiling of nitrogen cycling genes (J. Wren, editor). Bioinformatics 35(6): 1040–1048. doi: <a href="https://doi.org/10.1093/bioinformatics/bty741">10.1093/bioinformatics/bty741</a>.
+</div>
+</div></section></div> ]]></description>
+  <category>event</category>
+  <category>poster</category>
+  <guid>https://jonathanmbinder.github.io/posts/events/2025/event-Perth-seed-conference/Perth-poster.html</guid>
+  <pubDate>Sun, 14 Sep 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://jonathanmbinder.github.io/posts/events/2025/event-Perth-seed-conference/images/dose_response.svg" medium="image" type="image/svg+xml"/>
+</item>
 <item>
   <title>2025 Korean Phytobiome Research Symposium</title>
   <dc:creator>Jonathan Binder</dc:creator>
