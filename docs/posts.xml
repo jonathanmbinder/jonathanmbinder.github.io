@@ -15,7 +15,7 @@
 <link>https://jonathanmbinder.github.io/posts.html</link>
 </image>
 <generator>quarto-1.6.39</generator>
-<lastBuildDate>Sun, 14 Sep 2025 16:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 14 Sep 2025 23:00:00 GMT</lastBuildDate>
 <item>
   <title>Do seed microorganisms mediate nitrate or glucose effects on germination of an agricultural weed?</title>
   <dc:creator>Jonathan Binder</dc:creator>
@@ -129,8 +129,8 @@ Tu, Q., L. Lin, L. Cheng, Y. Deng, and Z. He. 2019. NCycDB: a curated integrativ
   <category>event</category>
   <category>poster</category>
   <guid>https://jonathanmbinder.github.io/posts/events/2025/event-Perth-seed-conference/Perth-poster.html</guid>
-  <pubDate>Sun, 14 Sep 2025 16:00:00 GMT</pubDate>
-  <media:content url="https://jonathanmbinder.github.io/posts/events/2025/event-Perth-seed-conference/images/dose_response.svg" medium="image" type="image/svg+xml"/>
+  <pubDate>Sun, 14 Sep 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://jonathanmbinder.github.io/posts/events/2025/event-Perth-seed-conference/images/dr_update.svg" medium="image" type="image/svg+xml"/>
 </item>
 <item>
   <title>2025 Korean Phytobiome Research Symposium</title>
@@ -161,7 +161,7 @@ https://quarto.org/docs/authoring/includes.html
  ]]></description>
   <category>event</category>
   <guid>https://jonathanmbinder.github.io/posts/events/2025/event-Korean-phytobiome-symposium/</guid>
-  <pubDate>Wed, 23 Jul 2025 16:00:00 GMT</pubDate>
+  <pubDate>Wed, 23 Jul 2025 23:00:00 GMT</pubDate>
   <media:content url="https://jonathanmbinder.github.io/posts/events/2025/event-Korean-phytobiome-symposium/pic.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -258,7 +258,7 @@ germination physiology of <em>Raphanus raphanistrum</em> and
 </div></div></section></div> ]]></description>
   <category>paper</category>
   <guid>https://jonathanmbinder.github.io/posts/papers/2025/paper-raphanus-pericarp/</guid>
-  <pubDate>Thu, 08 May 2025 16:00:00 GMT</pubDate>
+  <pubDate>Thu, 08 May 2025 23:00:00 GMT</pubDate>
   <media:content url="https://jonathanmbinder.github.io/posts/papers/2025/paper-raphanus-pericarp/mcaf015_fig7.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -312,7 +312,7 @@ https://quarto.org/docs/authoring/includes.html
  ]]></description>
   <category>news</category>
   <guid>https://jonathanmbinder.github.io/posts/news/2025/news-Guatemala-trip/</guid>
-  <pubDate>Wed, 23 Apr 2025 16:00:00 GMT</pubDate>
+  <pubDate>Wed, 23 Apr 2025 23:00:00 GMT</pubDate>
   <media:content url="https://jonathanmbinder.github.io/posts/news/2025/news-Guatemala-trip/pic4cropped.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -348,7 +348,7 @@ https://quarto.org/docs/authoring/includes.html
   <category>event</category>
   <category>presentation</category>
   <guid>https://jonathanmbinder.github.io/posts/events/2024/event-EWRS-biological-control/</guid>
-  <pubDate>Tue, 29 Oct 2024 16:00:00 GMT</pubDate>
+  <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
   <media:content url="https://jonathanmbinder.github.io/posts/events/2024/event-EWRS-biological-control/pic1.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
