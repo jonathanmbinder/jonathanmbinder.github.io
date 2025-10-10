@@ -8,7 +8,7 @@
 <title>Jonathan M. Binder</title>
 <link>https://jonathanmbinder.github.io/posts.html</link>
 <atom:link href="https://jonathanmbinder.github.io/posts.xml" rel="self" type="application/rss+xml"/>
-<description>Quarto Academic Website Template adapted by Dr. Gang He</description>
+<description>PhD student in seed science</description>
 <image>
 <url>https://quarto.org/quarto.png</url>
 <title>Jonathan M. Binder</title>
@@ -43,6 +43,16 @@ https://badge.dimensions.ai/
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
+<section id="post-conference-reflection" class="level2">
+<h2 class="anchored" data-anchor-id="post-conference-reflection">Post-conference reflection</h2>
+<p>Although it was a long flight to and from Australia, it was an interesting and engaging conference. Perth was a beautiful location and I was stunned by the unique local flora and fauna. It was great to see old friends from the <a href="https://www.bdna.or.kr/eng/">Baekdudaegan National Arboretum</a> and to learn about the agriculture research taking place at The University of Western Australia. I was especially interested in their <em>Medicago</em> and subterranian clover breeding programs and their seed technology startup <a href="https://www.uwa.edu.au/news/article/2025/september/emergence-ecotech">Emergence Ecotech</a>.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://jonathanmbinder.github.io/posts/events/2025/event-Perth-seed-conference/images/DSC_6028.jpg" class="img-fluid figure-img"></p>
+<figcaption>Members of <a href="http://seedbiology.eu/">The Seed Biology Place</a> at the conference dinner.</figcaption>
+</figure>
+</div>
+</section>
 <section id="introduction" class="level2">
 <h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
 <p>Nitrate (<img src="https://latex.codecogs.com/png.latex?%5Cmathrm%7BNO_3%5E-%7D">) and glucose are present in soil and consumed by microorganisms. These chemicals also act as seed germination signaling molecules <span class="citation" data-cites="alboresi2005 price2003">(Price et al., 2003; Alboresi et al., 2005)</span>. Understanding how seed-associated microorganisms mediate glucose and nitrate exposure or how glucose and nitrate levels shift microbial community structure and function could improve prediction of dormancy break, germination, or decay of weed seeds. This experiment explored the relationships between microorganisms and germination of <em>Alopecurus myosuroides</em> (an economically-important weed) under various nitrate and glucose levels.</p>
