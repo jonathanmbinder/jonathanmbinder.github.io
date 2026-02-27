@@ -1,0 +1,25 @@
+---
+title: "2025 Hugh Bunting Memorial Lecture"
+subtitle: "‘Banking on diversity for a food secure world’ - Dr Geoffrey Hawtin OBE"
+author: "Jonathan Binder"
+date: "2025-10-14"
+categories: [event]
+image: "geoffrey-hawtin.jpeg"
+image-alt: "old bottle containing soil"
+#css: /custom.css
+#draft: true
+---
+
+I recently became a member of [Tropical Agriculture Association International](https://taa-international.org/) and attended my first event hosted by the group.
+The memorial lecture is an annual one held at the University of Reading in honor of professor Hugh Bunting, originally from South Africa, who devoted his life to improving agriculture in Africa in many capacaties inculding as professor at the university.
+
+The talk was given by 2024 joint-winner (with Dr. Cary Fowler) of the World Food Prize Dr. Geoffrey Hawtin OBE for their work in establishing [The Crop Trust](https://www.croptrust.org/). 
+The Crop Trust provides funding for genebanks around the world to help maintain collections which are integral resources for plant breeding. 
+
+There was time for networking before and after the talk and I was impressed by the experience and expertise of group members.
+I look forward to learning more and getting more involved in the group.
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

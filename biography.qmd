@@ -1,0 +1,78 @@
+---
+title: "Biography"
+---
+
+I am originally from Port Allegany, a small (pop. ~2,000), rural, and forested town in northcentral Pennsylvania.
+
+```{r}
+#| include: false
+
+library(librarian)
+
+libs <- c(
+  "elevatr", "rayshader", "tidyverse", "sf", "giscoR", "jsonlite",
+  "httr", "png", "rnaturalearth", "ggspatial", "prettymapr", "patchwork"
+)
+shelf(libs)
+
+
+Pa <- rnaturalearth::ne_states("United States of America") %>% dplyr::filter(name=="Pennsylvania")
+
+# map data inset
+us <- ne_states(c("United States of America", "Canada"), returnclass = "sf")
+
+bb <- Pa |>
+  st_bbox()
+
+# inset map
+us_map <- ggplot() +
+  geom_sf(data = us) +
+  # annotate bounding box
+  annotate(
+    geom = "rect",
+    xmin = bb$xmin-.25, xmax = bb$xmax+.25, ymin = bb$ymin-.25, ymax = bb$ymax,
+    fill=NA,
+    color="red"
+  ) +
+  coord_sf(xlim = c(-90, -73), y = c(30, 45)) +
+  ggthemes::theme_map() +
+  theme(
+    # give white background and black border
+    panel.background = element_rect(fill = "lightblue"),
+    #plot.margin = margin() # remove margins
+  )
+
+Pa_map <- ggplot() +
+  geom_sf(data=Pa, color="black") +
+  annotation_map_tile(
+    type = "osm",
+    cachedir = "maps/",
+    zoomin = -1
+  ) +
+  theme(axis.text = element_blank(),
+        axis.ticks = element_blank(),
+        axis.title = element_blank()
+        ) +
+#  coord_sf(xlim = c(-80, -75), ylim = c(33, 80))
+  geom_point(aes(x=-78.2797, y=41.8109), shape=21, fill="white") +
+  geom_text(aes(x=-78.23, y=41.9), label="Port Allegany")
+```
+
+```{r}
+#| echo: false
+#| message: false
+#| fig-height: 3.5
+#| fig-alt: A map of Pennsylvania with Port Allegany labelled in north central Pennsylvania
+
+Pa_map +
+  inset_element(us_map,
+    left = 0,
+    right = 0.25,
+    top = 0.4,
+    bottom = 0.01
+  )
+```
+
+I am married to [Bora Kim, PhD](https://scholar.google.com/citations?user=oL5BJjcAAAAJ&hl=en), senior lecturer of hospitality management at the University of Surrey in Guildford, Surrey, UK.
+
+<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/102460160/activity-summary/1cf448908bdf77a1455a8ac1f42bf53f5f9df8d4' title='Strava profile for Jonathan'></iframe>

@@ -1,11 +1,13 @@
 ---
 title: "Jonathan M. Binder"
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
+description-meta: "PhD student in seed science"
 image: "files/images/DSC01365.JPG"
+image-alt: "Jonathan sitting in a field of wheat and weeds, looking at the camera and smiling."
 page-navigation: false
 toc: false
 #sidebar: false
 page-layout: full
+open-graph: true
 
 about:
   id: hero-heading
@@ -64,24 +66,24 @@ redirect_from:
 
 :::{#hero-heading}
 
-I am a PhD student in the [Seed Science and Technology Research Group](seedbiology.de) 
-at [Royal Holloway, University of London](https://royalholloway.ac.uk). I am studying the effects 
+I am a PhD student in the [Seed Science and Technology Research Group](http://seedbiology.de/){target="_blank"} 
+at [Royal Holloway, University of London](https://royalholloway.ac.uk){target="_blank"}. I am studying the effects 
 of soil microbiological communities on the longevity of blackgrass (*Alopecurus myosuroides*) 
 seeds in the soil seedbank. My studies are funded by the 
-[London Interdisciplinary Biosciences Consortium Doctoral Training Partnership](https://www.lido-dtp.ac.uk/) (LIDo) with Syngenta AG supporting as an industry partner.
+[London Interdisciplinary Biosciences Consortium Doctoral Training Partnership](https://www.lido-dtp.ac.uk/){target="_blank"} (LIDo) with Syngenta AG supporting as an industry partner.
  
 I have broad interest and research experience in a variety of agricultural systems including agronomic (maize, cereal rye, wheat), horticultural (tomato, cardamom), and orchard (apple).
 I am a strong believer in interdisciplinary research and collaboration to tackle complex problems facing agricultural production around the world.
  
 ## Education 
 
-[Royal Holloway, University of London](https://www.royalholloway.ac.uk/) |
+[Royal Holloway, University of London](https://www.royalholloway.ac.uk/){target="_blank"} |
 PhD in Biological Sciences | 2026 (expected)
 
-[The Pennsylvania State University](https://agsci.psu.edu/) |
+[The Pennsylvania State University](https://agsci.psu.edu/){target="_blank"} |
 MSc in Agronomy | 2019
 
-[Vassar College](https://www.vassar.edu) | BA in Environmental Studies | 2014
+[Vassar College](https://www.vassar.edu){target="_blank"} | BA in Environmental Studies | 2014
 
 :::
 

@@ -6,14 +6,20 @@ title-block-banner: false
 
 {{< include /files/includes/_msclarity.qmd >}}
 
-Royal Holloway, University of London  
+During working hours you can find me in the lab or in the office.
 
-Address:  
+Royal Holloway, University of London  
 Bourne Laboratory<br>
 Egham Hill<br>
 Egham<br>
 Surrey TW20 0EX</p>
 <p>Phone: +44 (0)7723 131986<br>
 E-mail: [jonathan.binder.2022@live.rhul.ac.uk](mailto:jonathan.binder.2022@live.rhul.ac.uk)  
-KakaoTalk: jonathanbinder  
-![](files/images/kakaotalk.jpeg){width=25%}
+
+WhatsApp:  
+![](files/images/shared_qr_code.png){width=100px}  
+
+한국분들에게, 카카오톡 있습니다.  
+카카오 ID: jonathanbinder  
+카카오 QR코드  
+![](files/images/kakaotalk.jpeg){width=100px}

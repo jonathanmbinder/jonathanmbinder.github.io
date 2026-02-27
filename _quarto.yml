@@ -3,14 +3,13 @@ project:
   output-dir: docs
 
 # Meta
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-author-meta: "Dr. Gang He"
+description-meta: "PhD student in seed science"
+author-meta: "Jonathan Binder"
 
 website:
   title: "Jonathan M. Binder"
   image: "https://quarto.org/quarto.png"
-  description: "Quarto Academic Website Template adapted by Dr. Gang He"
- 
+  description: "PhD student in seed science"
   navbar:
     background: light  # You can change the background color here
 
@@ -24,7 +23,9 @@ website:
           - text: Events
             href: posts.qmd#category=event      
           - text: Contact
-            href: contact.qmd             
+            href: contact.qmd
+          - text: Biography
+            href: biography.qmd
       - text: Research
         menu:
           - text: Projects
@@ -48,7 +49,7 @@ website:
 
     right: 
       - text: CV
-        href: files/Binder_Jonathan_CV_July_2025.pdf
+        href: files/J_Binder_CV.pdf
       - icon: github
         href: https://github.com/jonathanmbinder
         target: _blank
@@ -96,6 +97,7 @@ website:
   google-analytics:
     tracking-id: "G-4PS2ES17BP"  # Please delete or replace with your own tracking ID
     anonymize-ip: true 
+  favicon: files/images/favicon1/favicon.ico
 
 bibliography: references.bib  # Add references.bib to the root folder to enable the bibliography function
 
@@ -110,7 +112,7 @@ format:
     code-overflow: wrap
     fig-align: center
     link-external-icon: false
-    link-external-newwindow: true
+    link-external-newwindow: false
     email-obfuscation: javascript
     link-external-filter: '^(?:http:|https:)\/\/drganghe\.github\.io\/custom'
     include-in-header: "files/includes/_academic.qmd"

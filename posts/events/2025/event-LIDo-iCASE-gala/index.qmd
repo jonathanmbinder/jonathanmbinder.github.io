@@ -1,0 +1,24 @@
+---
+title: "2025 LIDo iCASE Gala"
+subtitle: "I shared my research with other LIDo students."
+author: "Jonathan Binder"
+date: "2025-12-05"
+categories: [event, presentation]
+image: "20251205_130101.jpg"
+image-alt: "A group of PhD students with 'Big Ben' in the background."
+#css: /custom.css
+#draft: true
+---
+
+I presented on some of my work for other LIDo students at the annual iCASE gala.
+It was nice to catch up with fellow students from my cohort as we enter the final year of our PhD.
+It was also good to reconnect with students from other years whom I had met at events in the past.
+The venue was right across from Parliament, so we took some time to take a walk and pictures during the lunch break.
+
+You can see the slides [here](https://jonathanbinder.com/presentations/lido_icase_2025/2025-12-05_icase_gala.html).
+
+![](20251205_130101.jpg)
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

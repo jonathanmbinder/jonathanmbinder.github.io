@@ -116,6 +116,194 @@
             "title-short": "Weed response to herbicides",
             "type": "article-journal",
             "volume": "171"
+        },
+        {
+            "URL": "https://wits.worldbank.org/trade/comtrade/en/country/ALL/year/2021/tradeflow/Exports/partner/WLD/product/090830",
+            "author": [
+                {
+                    "family": "World Bank"
+                }
+            ],
+            "id": "worldbank2025",
+            "issued": {
+                "date-parts": [
+                    [
+                        2025
+                    ]
+                ]
+            },
+            "title": "Cardamoms exports by country 2021",
+            "type": ""
+        },
+        {
+            "DOI": "10.1111/j.1365-3040.2005.01292.x",
+            "author": [
+                {
+                    "family": "Alboresi",
+                    "given": "A."
+                },
+                {
+                    "family": "Gestin",
+                    "given": "C."
+                },
+                {
+                    "family": "Leydecker",
+                    "given": "M.-T."
+                },
+                {
+                    "family": "Bedu",
+                    "given": "M."
+                },
+                {
+                    "family": "Meyer",
+                    "given": "C."
+                },
+                {
+                    "family": "Truong",
+                    "given": "H.-N."
+                }
+            ],
+            "container-title": "Plant, Cell & Environment",
+            "id": "alboresi2005",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2005,
+                        4
+                    ]
+                ]
+            },
+            "language": "eng",
+            "note": "PMID: 16229082",
+            "page": "500-512",
+            "title": "Nitrate, a signal relieving seed dormancy in <i>Arabidopsis</i>",
+            "type": "article-journal",
+            "volume": "28"
+        },
+        {
+            "DOI": "10.1104/pp.103.020347",
+            "URL": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC167082/",
+            "author": [
+                {
+                    "family": "Price",
+                    "given": "John"
+                },
+                {
+                    "family": "Li",
+                    "given": "Tsai-Chi"
+                },
+                {
+                    "family": "Kang",
+                    "given": "Shin Gene"
+                },
+                {
+                    "family": "Na",
+                    "given": "Jong Kuk"
+                },
+                {
+                    "family": "Jang",
+                    "given": "Jyan-Chyun"
+                }
+            ],
+            "container-title": "Plant Physiology",
+            "id": "price2003",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2003,
+                        7
+                    ]
+                ]
+            },
+            "language": "en",
+            "note": "Publisher: Oxford University Press PMID: 12857824",
+            "page": "1424",
+            "title": "Mechanisms of glucose signaling during germination of Arabidopsis",
+            "type": "article-journal",
+            "volume": "132"
+        },
+        {
+            "DOI": "10.1093/bioinformatics/bty741",
+            "URL": "https://academic.oup.com/bioinformatics/article/35/6/1040/5085377",
+            "author": [
+                {
+                    "family": "Tu",
+                    "given": "Qichao"
+                },
+                {
+                    "family": "Lin",
+                    "given": "Lu"
+                },
+                {
+                    "family": "Cheng",
+                    "given": "Lei"
+                },
+                {
+                    "family": "Deng",
+                    "given": "Ye"
+                },
+                {
+                    "family": "He",
+                    "given": "Zhili"
+                }
+            ],
+            "container-title": "Bioinformatics",
+            "editor": [
+                {
+                    "family": "Wren",
+                    "given": "Jonathan"
+                }
+            ],
+            "id": "tu2019",
+            "issue": "6",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        3,
+                        15
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "1040-1048",
+            "title": "NCycDB: a curated integrative database for fast and accurate metagenomic profiling of nitrogen cycling genes",
+            "title-short": "NCycDB",
+            "type": "article-journal",
+            "volume": "35"
+        },
+        {
+            "DOI": "10.1371/journal.pcbi.1006277",
+            "URL": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6034898/",
+            "author": [
+                {
+                    "family": "Lu",
+                    "given": "Jennifer"
+                },
+                {
+                    "family": "Salzberg",
+                    "given": "Steven L."
+                }
+            ],
+            "container-title": "PLoS Computational Biology",
+            "id": "lu2018",
+            "issue": "6",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        6,
+                        25
+                    ]
+                ]
+            },
+            "note": "PMID: 29939994 PMCID: PMC6034898",
+            "page": "e1006277",
+            "title": "Removing contaminants from databases of draft genomes",
+            "type": "article-journal",
+            "volume": "14"
         }
     ],
     "project_biblios": [

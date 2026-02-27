@@ -10,3 +10,7 @@ title-block-banner: false
 # Draft support
 # See https://quarto.org/docs/prerelease/1.5/website-drafts.html
 draft-mode: unlinked
+
+comments:
+  giscus: 
+    repo: jonathanmbinder/jonathanmbinder.github.io-comments

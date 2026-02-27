@@ -1,0 +1,77 @@
+---
+title: "Do seed microorganisms mediate nitrate or glucose effects on germination of an agricultural weed?"
+description: "Please see contents of the poster I am presenting below."
+subtitle: "A poster for the International Seed Science Conference 2025, Perth, Australia"
+author: 
+  - name: Jonathan Binder
+    affiliation: Royal Holloway, University of London, Egham, UK
+  - name: Kazumi Nakabayashi
+    affiliation: Obihiro University of Agriculture and Veterinary Medicine, Obihiro, Japan
+  - name: Tom Holloway
+    affiliation: Syngenta, Bracknell, UK
+  - name: Ben Oyserman
+    affiliation: Syngenta, Stein, Switzerland
+  - name: Gerhard Leubner-Metzger
+    affiliation: Royal Holloway, University of London, Egham, UK
+date: "2025-09-15"
+categories: [event, poster]
+image: "images/dr_update.svg"
+image-alt: "Dose response of seed maximum germination to nitrate and glucose for 10 populations"
+csl: agronomy-journal.csl
+---
+
+<!--Include academic icons or bottons-->
+
+{{< include /files/includes/_academic.qmd >}}
+
+## Post-conference reflection
+
+Although it was a long flight to and from Australia, it was an interesting and engaging conference.
+Perth was a beautiful location and I was stunned by the unique local flora and fauna.
+It was great to see old friends from the [Baekdudaegan National Arboretum](https://www.bdna.or.kr/eng/) and to learn about the agriculture research taking place at The University of Western Australia.
+I was especially interested in their *Medicago* and subterranian clover breeding programs and their seed technology startup [Emergence Ecotech](https://www.uwa.edu.au/news/article/2025/september/emergence-ecotech).
+
+![Members of [The Seed Biology Place](http://seedbiology.eu/) at the conference dinner.](./images/DSC_6028.jpg)
+
+## Introduction
+
+Nitrate ($\mathrm{NO_3^-}$) and glucose are present in soil and consumed by microorganisms.
+These chemicals also act as seed germination signaling molecules [@alboresi2005; @price2003].
+Understanding how seed-associated microorganisms mediate glucose and nitrate exposure or how glucose and nitrate levels shift microbial community structure and function could improve prediction of dormancy break, germination, or decay of weed seeds.
+This experiment explored the relationships between microorganisms and germination of *Alopecurus myosuroides* (an economically-important weed) under various nitrate and glucose levels.
+
+![*A. myosuroides* seeds with fungal growth observed during a germination assay.](./images/composite.png){#fig-fungi width="100%"}
+
+## Methods
+
+European seed populations up to 5 years old were obtained from Syngenta.
+
+Dose-response germination assays were conducted in triplicate with nitrate (as $\mathrm{KNO_3}$) and glucose in Petri dishes with approximately 25 seeds at 20 °C and constant light in an environmental chamber.
+Models were fit with four-parameter log-logistic functions.
+
+DNA was isolated from dry seeds using the DNeasy PowerSoil Pro kit (Qiagen) and shotgun metagenomic sequencing was conducted on a subset of the populations in triplicate with a MinION Mk1b (Oxford Nanopore Technologies).
+Nitrogen (N) cycling genes were identified using the NCycDB database [@tu2019] and pathogen microbiomes were classified using a eukaryotic pathogen database (EuPathDB-Clean) [@lu2018].
+
+## Results
+
+Seed populations showed varying sensitivities to nitrate and glucose (Fig. 2).
+
+![Germination ($G_{max}$) respones of 10 *A. myosuroides* populations to varying levels of nitrate ($\mathrm{NO_3^-}$) and glucose ($\mathrm{C_6H_{12}O_6}$).](./images/dr_update.svg){#fig-dose}
+
+N cycling-related gene expression of seed-associated microorganisms showed relatively similarity (Fig. 3) and there were no statistical differences in gene composition between populations (PERMANOVA, p=0.3). Pathogen metagenomes showed separation (Fig. 4) and metagenome compositions were different (PERMANOVA, p\<0.001).
+
+![Non-metric multidimensional scaling (NMDS) plot (Bray-Curtis distances) of N cyle genes in microbial metagenomes of 7 *A. myosuroides* populations.](./images/N_NMDS.svg){#fig-N}
+
+![NMDS plot (Bray-Curtis distances) of eukaryotic pathogen microbial metagenomes of 7 *A. myosuroides* populations.](./images/glucose_NMDS.svg){#fig-glucose}
+
+## Discussion and Conclusion
+
+Lack of differences in microbial N cycle gene compositions between populations suggests that seed microorganisms may not play an important role in seed responses to nitrate. While eukaryotic pathogen microbiomes were different between populations, additional analysis will be completed in an attempt to connect germination dynamics with microbial composition. Because $\mathrm{C_6H_{12}O_6}$ is a signalling molecule, use of non-signal carbon sources that may provide more fuel to pathogenic seed microorganisms may be better in elucidating seed microorganism effects. Taxonomic and differential abundance analyses will be used to further investigate these research question.
+
+This experiment focused on seed-associated microorganisms in Petri dishes and ignored soil and soil microbial communities which may have a large effect on nutrient concentrations experienced by the seed.
+
+Funding provided by:
+
+![](./images/multi_logos.png)
+
+## References

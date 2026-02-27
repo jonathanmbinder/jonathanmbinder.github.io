@@ -1,0 +1,27 @@
+---
+title: "2025 Tropical Agriculture Association Conference"
+subtitle: "Development and Use of Biological Agents and Extracts in Tropical Agricultural Systems"
+author: "Jonathan Binder"
+date: "2025-11-05"
+categories: [event]
+image: "soil_bottle.jpg"
+image-alt: "old bottles of soil"
+#css: /custom.css
+#draft: true
+---
+
+I made the trip up to Rothamsted Resarch to attend the annual meeting of TAAI.
+The two-day conference was chock-full of interesting talks and good conversation.
+
+Participants came from various institutions including [Biovision - Foundation for Ecological Development](https://www.biovision.ch/en/), [ECHO International](https://echonet.org/), and [Straw Innovations](https://strawinnovations.com/).
+
+For me, highlight talks were given by [Ken Giller](https://scholar.google.com/citations?user=yct61VwAAAAJ&hl=en), [Alejandro Ortega-Boltrán](https://scholar.google.com/citations?user=EZTwY34AAAAJ&hl=en), and [Mélanie Surchat](https://www.biovision.ch/en/project/push-pull-diversity-through-participatory-research/).
+
+We were even able to have a delicious curry dinner at the beautiful [Rothamsted Manor](https://rothamstedmanor.com/) and get a tour of some of the facilities including the meticulously looked-after soil sample collection from the longest agricultural experiment in the world.
+
+My collaborators at [Universidad del Valle de Guatemala](https://www.uvg.edu.gt/) submitted a poster and won a prize!
+Congratulations to them!
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
