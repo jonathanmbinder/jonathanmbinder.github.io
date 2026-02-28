@@ -16,7 +16,7 @@ about:
   links:
     - icon: envelope
       text: E-mail
-      href: mailto:jonathan.binder.2022@live.rhul.ac.uk    
+      href: mailto:me@jonathanbinder.com    
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/jonathan-binder/
