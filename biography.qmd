@@ -73,6 +73,6 @@ Pa_map +
   )
 ```
 
-I am married to [Bora Kim, PhD](https://scholar.google.com/citations?user=oL5BJjcAAAAJ&hl=en), senior lecturer of hospitality management at the University of Surrey in Guildford, Surrey, UK.
+I am married to [Bora Kim, PhD](https://scholar.google.com/citations?user=oL5BJjcAAAAJ&hl=en), associate professor of hospitality management at the University of Surrey in Guildford, Surrey, UK.
 
 <iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/102460160/activity-summary/1cf448908bdf77a1455a8ac1f42bf53f5f9df8d4' title='Strava profile for Jonathan'></iframe>
