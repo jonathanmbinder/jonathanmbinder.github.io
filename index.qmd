@@ -19,7 +19,7 @@ about:
       href: mailto:me@jonathanbinder.com    
     - icon: whatsapp
       text: whatsapp
-      href: wa.me/qr/BR2NQ5ZLHMUJC1
+      href: https://wa.me/qr/BR2NQ5ZLHMUJC1
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/jonathan-binder/
