@@ -1,5 +1,5 @@
 ---
-title: 'Jonathan'
+title: 'Jonathan M. Binder'
 description-meta: "A personal professional website"
 image: "files/images/DSC01365.JPG"
 page-navigation: false
@@ -16,6 +16,9 @@ about:
     - icon: envelope
       text: E-mail
       href: mailto:jonathan.binder.2022@live.rhul.ac.uk    
+    - icon: whatsapp
+      text: whatsapp
+      href: https://wa.me/qr/BR2NQ5ZLHMUJC1
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/jonathan-binder/
